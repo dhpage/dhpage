@@ -1,0 +1,7460 @@
+[
+  {
+    "id": "206000765",
+    "mobileNo": "06259",
+    "name": "동원2통",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0820333,
+      37.3518833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "205000362",
+    "mobileNo": "06337",
+    "name": "여수동입구",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.13385,
+      37.4171
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000149",
+    "mobileNo": "07001",
+    "name": "하오개로육교",
+    "dong": "운중동",
+    "coordinates": [
+      127.0385833,
+      37.3935167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000529",
+    "mobileNo": "07002",
+    "name": "야탑역.종합버스터미널(후면)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1284833,
+      37.4120167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000150",
+    "mobileNo": "07003",
+    "name": "더샵판교퍼스트파크정문",
+    "dong": "운중동",
+    "coordinates": [
+      127.09445,
+      37.3824833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000010",
+    "mobileNo": "07004",
+    "name": "운중동먹거리촌",
+    "dong": "운중동",
+    "coordinates": [
+      127.0582333,
+      37.3914
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000009",
+    "mobileNo": "07005",
+    "name": "운중동푸르지오하임",
+    "dong": "운중동",
+    "coordinates": [
+      127.0611,
+      37.3919333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000012",
+    "mobileNo": "07006",
+    "name": "운중동푸르지오하임",
+    "dong": "운중동",
+    "coordinates": [
+      127.0609833,
+      37.392
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000496",
+    "mobileNo": "07007",
+    "name": "궁안마을",
+    "dong": "금곡동",
+    "coordinates": [
+      127.0994333,
+      37.3695667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000495",
+    "mobileNo": "07008",
+    "name": "궁안마을입구",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1005833,
+      37.36965
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000007",
+    "mobileNo": "07009",
+    "name": "운중중학교",
+    "dong": "운중동",
+    "coordinates": [
+      127.07305,
+      37.3916
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000014",
+    "mobileNo": "07010",
+    "name": "운중고등학교",
+    "dong": "운중동",
+    "coordinates": [
+      127.0730167,
+      37.3918167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000006",
+    "mobileNo": "07011",
+    "name": "운중동행정복지센터",
+    "dong": "운중동",
+    "coordinates": [
+      127.0776667,
+      37.3915
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000015",
+    "mobileNo": "07012",
+    "name": "운중동행정복지센터",
+    "dong": "운중동",
+    "coordinates": [
+      127.07675,
+      37.39185
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000005",
+    "mobileNo": "07013",
+    "name": "뫼루니육교",
+    "dong": "운중동",
+    "coordinates": [
+      127.0828833,
+      37.3910167
+    ],
+    "crossCheckMeters": 6.3
+  },
+  {
+    "id": "206000016",
+    "mobileNo": "07014",
+    "name": "판교원마을1.2단지.판교도서관",
+    "dong": "운중동",
+    "coordinates": [
+      127.0890667,
+      37.3899
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000004",
+    "mobileNo": "07015",
+    "name": "판교원마을1.2단지.판교도서관",
+    "dong": "운중동",
+    "coordinates": [
+      127.0879333,
+      37.3898167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000003",
+    "mobileNo": "07016",
+    "name": "한림아파트",
+    "dong": "판교동",
+    "coordinates": [
+      127.0961333,
+      37.3882167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000017",
+    "mobileNo": "07017",
+    "name": "한림아파트",
+    "dong": "판교동",
+    "coordinates": [
+      127.0960833,
+      37.3885
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000002",
+    "mobileNo": "07018",
+    "name": "너더리육교",
+    "dong": "판교동",
+    "coordinates": [
+      127.0996,
+      37.3881
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000643",
+    "mobileNo": "07019",
+    "name": "효자촌사거리",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1319333,
+      37.37425
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000018",
+    "mobileNo": "07020",
+    "name": "너더리육교",
+    "dong": "판교동",
+    "coordinates": [
+      127.0996,
+      37.3883833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000660",
+    "mobileNo": "07021",
+    "name": "운중동행정복지센터사거리",
+    "dong": "운중동",
+    "coordinates": [
+      127.0773833,
+      37.3917833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000655",
+    "mobileNo": "07022",
+    "name": "백현동종점",
+    "dong": "운중동",
+    "coordinates": [
+      127.0915833,
+      37.3834333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000726",
+    "mobileNo": "07023",
+    "name": "야탑119안전센터",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1362,
+      37.4163
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000719",
+    "mobileNo": "07024",
+    "name": "더샵판교퍼스트파크정문",
+    "dong": "운중동",
+    "coordinates": [
+      127.0945333,
+      37.3823
+    ],
+    "crossCheckMeters": 18.0
+  },
+  {
+    "id": "206000008",
+    "mobileNo": "07025",
+    "name": "국군수도병원",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1483667,
+      37.3925
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000203",
+    "mobileNo": "07026",
+    "name": "쇳골마을.궁내동톨게이트",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1014333,
+      37.3635
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000221",
+    "mobileNo": "07027",
+    "name": "동원동",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1014833,
+      37.3455167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000210",
+    "mobileNo": "07028",
+    "name": "쇳골마을.궁내동톨게이트",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1017667,
+      37.3635333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000201",
+    "mobileNo": "07029",
+    "name": "로얄냉장",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1015167,
+      37.3541333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000202",
+    "mobileNo": "07030",
+    "name": "보바스병원",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1015333,
+      37.3571167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000204",
+    "mobileNo": "07031",
+    "name": "궁내동.궁안마을",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1015167,
+      37.3701167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000209",
+    "mobileNo": "07032",
+    "name": "궁내동.궁안마을",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1019333,
+      37.3708167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000229",
+    "mobileNo": "07033",
+    "name": "동원동",
+    "dong": "구미1동",
+    "coordinates": [
+      127.10195,
+      37.3459333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000677",
+    "mobileNo": "07034",
+    "name": "H스퀘어.삼환하이펙스",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10985,
+      37.4017833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000205",
+    "mobileNo": "07035",
+    "name": "성남외고입구",
+    "dong": "백현동",
+    "coordinates": [
+      127.1017667,
+      37.37805
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000207",
+    "mobileNo": "07036",
+    "name": "낙생고등학교",
+    "dong": "판교동",
+    "coordinates": [
+      127.1020333,
+      37.3876
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000208",
+    "mobileNo": "07037",
+    "name": "성남외고입구",
+    "dong": "백현동",
+    "coordinates": [
+      127.1021333,
+      37.3775667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000019",
+    "mobileNo": "07038",
+    "name": "백현교차로",
+    "dong": "백현동",
+    "coordinates": [
+      127.1025833,
+      37.3823333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000231",
+    "mobileNo": "07040",
+    "name": "구미동차고지",
+    "dong": "구미동",
+    "coordinates": [
+      127.1054667,
+      37.3398667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000013",
+    "mobileNo": "07042",
+    "name": "더블트리바이힐튼호텔.한국잡월드",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1063333,
+      37.3798833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000228",
+    "mobileNo": "07043",
+    "name": "미금역.2001아울렛",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1068333,
+      37.3499333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000059",
+    "mobileNo": "07044",
+    "name": "현대중공업R&D센터",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1060333,
+      37.3765167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000222",
+    "mobileNo": "07045",
+    "name": "미금역.2001아울렛",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1068167,
+      37.3501833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000189",
+    "mobileNo": "07049",
+    "name": "정자역",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1078833,
+      37.36585
+    ],
+    "crossCheckMeters": 9.3
+  },
+  {
+    "id": "206000256",
+    "mobileNo": "07050",
+    "name": "정자유스센터.분당클리닉",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1078333,
+      37.3706667
+    ],
+    "crossCheckMeters": 22.6
+  },
+  {
+    "id": "206000198",
+    "mobileNo": "07051",
+    "name": "정자역",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1083333,
+      37.3659667
+    ],
+    "crossCheckMeters": 14.9
+  },
+  {
+    "id": "206000197",
+    "mobileNo": "07052",
+    "name": "두산위브제니스",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1083167,
+      37.3695333
+    ],
+    "crossCheckMeters": 10.3
+  },
+  {
+    "id": "206000140",
+    "mobileNo": "07053",
+    "name": "아데나펠리스",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1078667,
+      37.3622
+    ],
+    "crossCheckMeters": 22.2
+  },
+  {
+    "id": "206000094",
+    "mobileNo": "07054",
+    "name": "까치마을건영빌라.구미도서관",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1086667,
+      37.3475
+    ],
+    "crossCheckMeters": 10.2
+  },
+  {
+    "id": "206000216",
+    "mobileNo": "07055",
+    "name": "하얀마을",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1086833,
+      37.3441167
+    ],
+    "crossCheckMeters": 8.1
+  },
+  {
+    "id": "206000241",
+    "mobileNo": "07056",
+    "name": "농수산물센터",
+    "dong": "구미동",
+    "coordinates": [
+      127.1087333,
+      37.3371333
+    ],
+    "crossCheckMeters": 3.7
+  },
+  {
+    "id": "206000215",
+    "mobileNo": "07057",
+    "name": "오리역",
+    "dong": "구미동",
+    "coordinates": [
+      127.1087333,
+      37.3402667
+    ],
+    "crossCheckMeters": 6.3
+  },
+  {
+    "id": "206000040",
+    "mobileNo": "07058",
+    "name": "오리역",
+    "dong": "구미동",
+    "coordinates": [
+      127.1091833,
+      37.3401167
+    ],
+    "crossCheckMeters": 22.4
+  },
+  {
+    "id": "206000251",
+    "mobileNo": "07059",
+    "name": "농수산물센터",
+    "dong": "구미동",
+    "coordinates": [
+      127.1092,
+      37.33705
+    ],
+    "crossCheckMeters": 14.9
+  },
+  {
+    "id": "206000219",
+    "mobileNo": "07060",
+    "name": "하얀마을.구미도서관",
+    "dong": "구미동",
+    "coordinates": [
+      127.1091667,
+      37.3447167
+    ],
+    "crossCheckMeters": 9.4
+  },
+  {
+    "id": "206000170",
+    "mobileNo": "07062",
+    "name": "낙생농협",
+    "dong": "구미동",
+    "coordinates": [
+      127.1097667,
+      37.33825
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000303",
+    "mobileNo": "07064",
+    "name": "정자중학교",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1097167,
+      37.3663333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000304",
+    "mobileNo": "07065",
+    "name": "신기초등학교",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1096833,
+      37.3681333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000740",
+    "mobileNo": "07066",
+    "name": "석운전원마을",
+    "dong": "운중동",
+    "coordinates": [
+      127.0451667,
+      37.3734333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000093",
+    "mobileNo": "07068",
+    "name": "한솔빌딩.구미도서관",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1102833,
+      37.3457167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000272",
+    "mobileNo": "07070",
+    "name": "미금역.농협.2001아울렛",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1105,
+      37.3501833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000089",
+    "mobileNo": "07071",
+    "name": "금성백조아파트.구미도서관",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1103,
+      37.34595
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000679",
+    "mobileNo": "07073",
+    "name": "판교역북편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1113833,
+      37.3961167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000680",
+    "mobileNo": "07075",
+    "name": "판교역북편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1111667,
+      37.3963
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000257",
+    "mobileNo": "07076",
+    "name": "로얄팰리스아파트",
+    "dong": "정자1동",
+    "coordinates": [
+      127.11065,
+      37.37455
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000236",
+    "mobileNo": "07077",
+    "name": "수내역.정자아이파크",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1109,
+      37.3764333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000020",
+    "mobileNo": "07078",
+    "name": "정자사거리",
+    "dong": "수내1동",
+    "coordinates": [
+      127.11105,
+      37.3767833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000267",
+    "mobileNo": "07079",
+    "name": "미금역",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1106167,
+      37.3498833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000253",
+    "mobileNo": "07080",
+    "name": "느티마을.경남빌라",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1116,
+      37.3746667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000098",
+    "mobileNo": "07083",
+    "name": "KT.주택전시관",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1124167,
+      37.36005
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000084",
+    "mobileNo": "07084",
+    "name": "KT.주택전시관",
+    "dong": "정자1동",
+    "coordinates": [
+      127.11255,
+      37.3597833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000090",
+    "mobileNo": "07085",
+    "name": "선경아파트",
+    "dong": "구미1동",
+    "coordinates": [
+      127.113,
+      37.3460333
+    ],
+    "crossCheckMeters": 14.2
+  },
+  {
+    "id": "206000092",
+    "mobileNo": "07086",
+    "name": "하얀마을",
+    "dong": "구미1동",
+    "coordinates": [
+      127.11395,
+      37.3460333
+    ],
+    "crossCheckMeters": 2.4
+  },
+  {
+    "id": "206000295",
+    "mobileNo": "07087",
+    "name": "양지마을",
+    "dong": "수내1동",
+    "coordinates": [
+      127.11485,
+      37.37295
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000182",
+    "mobileNo": "07088",
+    "name": "주공7단지앞.치매안심센터",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1145667,
+      37.3692667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000181",
+    "mobileNo": "07090",
+    "name": "정자2동행정복지센터",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1146167,
+      37.3654333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000180",
+    "mobileNo": "07091",
+    "name": "한솔프라자",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1146667,
+      37.3626667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000323",
+    "mobileNo": "07092",
+    "name": "주공7단지앞.한솔종합사회복지관.치매안심센터",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1149667,
+      37.3682333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000324",
+    "mobileNo": "07093",
+    "name": "정자2동행정복지센터",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1149667,
+      37.3653667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000325",
+    "mobileNo": "07094",
+    "name": "한진아파트",
+    "dong": "정자1동",
+    "coordinates": [
+      127.115,
+      37.3629667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000334",
+    "mobileNo": "07095",
+    "name": "LG아파트.무지개마을사거리.신한아파트",
+    "dong": "구미동",
+    "coordinates": [
+      127.115,
+      37.3379667
+    ],
+    "crossCheckMeters": 1.5
+  },
+  {
+    "id": "206000279",
+    "mobileNo": "07096",
+    "name": "양지마을",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1150333,
+      37.3732333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000278",
+    "mobileNo": "07098",
+    "name": "롯데백화점.수내역",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1154833,
+      37.3774667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000171",
+    "mobileNo": "07099",
+    "name": "신한아파트",
+    "dong": "구미동",
+    "coordinates": [
+      127.1143667,
+      37.3382167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000296",
+    "mobileNo": "07100",
+    "name": "수내역.롯데백화점",
+    "dong": "수내1동",
+    "coordinates": [
+      127.11515,
+      37.3777667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000177",
+    "mobileNo": "07101",
+    "name": "청솔마을.주공9단지.동아아파트",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1157333,
+      37.3518833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000329",
+    "mobileNo": "07102",
+    "name": "대우.롯데아파트상가",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1162333,
+      37.3491667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000328",
+    "mobileNo": "07103",
+    "name": "대원사거리.까치마을",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1160333,
+      37.3517
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000173",
+    "mobileNo": "07104",
+    "name": "하얀마을.그랜드빌.벽산빌라",
+    "dong": "구미동",
+    "coordinates": [
+      127.1159167,
+      37.34275
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000172",
+    "mobileNo": "07105",
+    "name": "무지개마을.건영아파트",
+    "dong": "구미동",
+    "coordinates": [
+      127.1159167,
+      37.3393333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000179",
+    "mobileNo": "07106",
+    "name": "분당도서관.계원예고.계원예술중학교",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1163,
+      37.35965
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000174",
+    "mobileNo": "07107",
+    "name": "오리초등학교",
+    "dong": "구미동",
+    "coordinates": [
+      127.1159333,
+      37.3449167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000175",
+    "mobileNo": "07108",
+    "name": "미금초등학교",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1159167,
+      37.34775
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000176",
+    "mobileNo": "07109",
+    "name": "신원아파트",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1159167,
+      37.3488667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000333",
+    "mobileNo": "07110",
+    "name": "주공4단지",
+    "dong": "구미동",
+    "coordinates": [
+      127.11635,
+      37.3389333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000330",
+    "mobileNo": "07111",
+    "name": "미금초등학교",
+    "dong": "구미1동",
+    "coordinates": [
+      127.11625,
+      37.3475833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000332",
+    "mobileNo": "07112",
+    "name": "하얀마을.그랜드빌.벽산빌라",
+    "dong": "구미동",
+    "coordinates": [
+      127.1162667,
+      37.3427833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000331",
+    "mobileNo": "07113",
+    "name": "오리초등학교",
+    "dong": "구미동",
+    "coordinates": [
+      127.11625,
+      37.3449833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000100",
+    "mobileNo": "07114",
+    "name": "분당구청입구.수내교",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1169833,
+      37.3811667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000082",
+    "mobileNo": "07115",
+    "name": "분당구청입구.수내교",
+    "dong": "수내1동",
+    "coordinates": [
+      127.11735,
+      37.3813167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000326",
+    "mobileNo": "07116",
+    "name": "분당도서관.계원예고.이마트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1176167,
+      37.3595167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000259",
+    "mobileNo": "07117",
+    "name": "주공5단지",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1178,
+      37.3467167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000263",
+    "mobileNo": "07118",
+    "name": "주공5단지",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1179167,
+      37.3463833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000178",
+    "mobileNo": "07119",
+    "name": "더샵분당파크리버.헬스케어혁신파크",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1184833,
+      37.3551333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000041",
+    "mobileNo": "07120",
+    "name": "구미초교",
+    "dong": "구미동",
+    "coordinates": [
+      127.1177833,
+      37.33825
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000327",
+    "mobileNo": "07121",
+    "name": "더샵분당파크리버.헬스케어혁신파크",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1182167,
+      37.3542667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000101",
+    "mobileNo": "07122",
+    "name": "분당구청후문",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1181667,
+      37.3830833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000294",
+    "mobileNo": "07123",
+    "name": "내정중학교.한솔4.5단지",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1186833,
+      37.3699
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000280",
+    "mobileNo": "07124",
+    "name": "내정중학교.한솔4.5단지",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1186167,
+      37.3703
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000248",
+    "mobileNo": "07125",
+    "name": "정자3동행정복지센터",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1192333,
+      37.3603333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000223",
+    "mobileNo": "07126",
+    "name": "정자3동행정복지센터",
+    "dong": "정자3동",
+    "coordinates": [
+      127.11885,
+      37.36015
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000247",
+    "mobileNo": "07127",
+    "name": "정든마을.우성아파트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1192333,
+      37.3628
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000243",
+    "mobileNo": "07128",
+    "name": "한솔마을.LG아파트",
+    "dong": "정자2동",
+    "coordinates": [
+      127.11875,
+      37.3654833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000043",
+    "mobileNo": "07129",
+    "name": "이마트앞",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1188833,
+      37.3583
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000246",
+    "mobileNo": "07130",
+    "name": "한솔마을.LG아파트",
+    "dong": "정자2동",
+    "coordinates": [
+      127.11925,
+      37.3654667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000081",
+    "mobileNo": "07131",
+    "name": "분당구청후문",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1189667,
+      37.3833167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000242",
+    "mobileNo": "07132",
+    "name": "정든마을.우성아파트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.11885,
+      37.3625
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000249",
+    "mobileNo": "07133",
+    "name": "이마트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.11925,
+      37.3580167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000322",
+    "mobileNo": "07134",
+    "name": "파크타운.롯데아파트",
+    "dong": "수내2동",
+    "coordinates": [
+      127.11975,
+      37.3737333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000183",
+    "mobileNo": "07135",
+    "name": "파크타운.양지마을",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1193667,
+      37.37385
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000224",
+    "mobileNo": "07136",
+    "name": "한솔초등학교",
+    "dong": "정자2동",
+    "coordinates": [
+      127.1197667,
+      37.368
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000260",
+    "mobileNo": "07137",
+    "name": "불곡고등학교",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1198833,
+      37.34755
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000262",
+    "mobileNo": "07138",
+    "name": "불곡고등학교",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1202167,
+      37.3480333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000042",
+    "mobileNo": "07139",
+    "name": "불곡초등학교",
+    "dong": "구미동",
+    "coordinates": [
+      127.1179333,
+      37.3403
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000039",
+    "mobileNo": "07140",
+    "name": "이마트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.12055,
+      37.3591
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000297",
+    "mobileNo": "07141",
+    "name": "분당구청.중앙공원후문",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1206167,
+      37.3816833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000300",
+    "mobileNo": "07142",
+    "name": "분당구청.중앙공원후문",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1207667,
+      37.3813167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000025",
+    "mobileNo": "07143",
+    "name": "중앙공원.양지마을청구아파트",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1211167,
+      37.3755833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000293",
+    "mobileNo": "07144",
+    "name": "수내동소방서.쌍용아파트",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1223333,
+      37.3670167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000310",
+    "mobileNo": "07145",
+    "name": "탑마을대우아파트",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1223667,
+      37.4055833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000309",
+    "mobileNo": "07146",
+    "name": "아름마을건영아파트",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1212667,
+      37.4053333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000080",
+    "mobileNo": "07147",
+    "name": "서현역.분당우체국",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1228,
+      37.3860167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000045",
+    "mobileNo": "07148",
+    "name": "정든마을.우성아파트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1228,
+      37.3625333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000281",
+    "mobileNo": "07149",
+    "name": "수내동소방서.쌍용아파트",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1231,
+      37.36675
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000245",
+    "mobileNo": "07151",
+    "name": "푸른마을",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1231333,
+      37.3699333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000261",
+    "mobileNo": "07152",
+    "name": "서울대병원",
+    "dong": "구미동",
+    "coordinates": [
+      127.12375,
+      37.3513667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000038",
+    "mobileNo": "07153",
+    "name": "분당중앙고등학교",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1230667,
+      37.35985
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000037",
+    "mobileNo": "07154",
+    "name": "정든마을.우성아파트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1233167,
+      37.3624
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000244",
+    "mobileNo": "07155",
+    "name": "푸른마을",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1230167,
+      37.37035
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000046",
+    "mobileNo": "07156",
+    "name": "한솔마을청구아파트",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1233667,
+      37.3643
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000315",
+    "mobileNo": "07157",
+    "name": "이매촌금강아파트.코오롱아파트.동부아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1235333,
+      37.3911167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000240",
+    "mobileNo": "07158",
+    "name": "이매촌금강아파트.코오롱아파트.동부아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1234167,
+      37.3913333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000305",
+    "mobileNo": "07159",
+    "name": "성남역.이매고교.아름마을.효성선경아파트",
+    "dong": "이매2동",
+    "coordinates": [
+      127.1234333,
+      37.3954667
+    ],
+    "crossCheckMeters": 5.8
+  },
+  {
+    "id": "206000306",
+    "mobileNo": "07160",
+    "name": "매송중학교.풍림아파트",
+    "dong": "이매2동",
+    "coordinates": [
+      127.1234167,
+      37.3976333
+    ],
+    "crossCheckMeters": 3.7
+  },
+  {
+    "id": "206000307",
+    "mobileNo": "07161",
+    "name": "매송초교.아름마을",
+    "dong": "이매2동",
+    "coordinates": [
+      127.1234833,
+      37.4018167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000308",
+    "mobileNo": "07162",
+    "name": "아름마을",
+    "dong": "이매2동",
+    "coordinates": [
+      127.1234167,
+      37.40455
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000036",
+    "mobileNo": "07163",
+    "name": "한솔마을청구아파트",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1236167,
+      37.3640667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000313",
+    "mobileNo": "07164",
+    "name": "매송중학교.풍림아파트",
+    "dong": "이매2동",
+    "coordinates": [
+      127.1236667,
+      37.3976167
+    ],
+    "crossCheckMeters": 15.1
+  },
+  {
+    "id": "206000311",
+    "mobileNo": "07165",
+    "name": "아름마을",
+    "dong": "이매2동",
+    "coordinates": [
+      127.1237,
+      37.4045667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000312",
+    "mobileNo": "07166",
+    "name": "매송초교.아름마을",
+    "dong": "이매2동",
+    "coordinates": [
+      127.12375,
+      37.4019333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000218",
+    "mobileNo": "07167",
+    "name": "분당중앙공원",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1237833,
+      37.3738333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000239",
+    "mobileNo": "07168",
+    "name": "이매촌한신.서현역.AK프라자",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1242333,
+      37.3883167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000026",
+    "mobileNo": "07169",
+    "name": "서현역.AK플라자",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1242333,
+      37.3842667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000316",
+    "mobileNo": "07170",
+    "name": "이매촌한신.서현역.AK프라자",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1246333,
+      37.3884833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000103",
+    "mobileNo": "07175",
+    "name": "진흥아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1252333,
+      37.3953
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000761",
+    "mobileNo": "07176",
+    "name": "동원2통",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0822167,
+      37.3518667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000104",
+    "mobileNo": "07177",
+    "name": "상공회의소",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1252833,
+      37.3996
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000762",
+    "mobileNo": "07179",
+    "name": "이매촌안말초교.성지아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.12525,
+      37.3940167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000077",
+    "mobileNo": "07180",
+    "name": "이매촌삼성아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.12555,
+      37.4002667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000105",
+    "mobileNo": "07181",
+    "name": "이매중학교",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1252667,
+      37.40345
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000078",
+    "mobileNo": "07182",
+    "name": "상공회의소",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1255333,
+      37.39815
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000076",
+    "mobileNo": "07183",
+    "name": "삼환아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.12555,
+      37.4044667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000079",
+    "mobileNo": "07184",
+    "name": "이매촌안말초교.성지아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1254333,
+      37.3937333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000047",
+    "mobileNo": "07186",
+    "name": "수내동파출소.동국대한방병원",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1266,
+      37.3667667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000252",
+    "mobileNo": "07187",
+    "name": "야탑2동행정복지센터.차병원",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1267667,
+      37.4097167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000277",
+    "mobileNo": "07188",
+    "name": "삼환아파트",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1268167,
+      37.4052833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000258",
+    "mobileNo": "07189",
+    "name": "야탑2동행정복지센터.차병원",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1267167,
+      37.4099667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000035",
+    "mobileNo": "07190",
+    "name": "동국대한방병원.수내고교",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1269333,
+      37.36665
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000138",
+    "mobileNo": "07191",
+    "name": "수내중학교",
+    "dong": "분당동",
+    "coordinates": [
+      127.12735,
+      37.3706667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000321",
+    "mobileNo": "07192",
+    "name": "샛별마을.우방아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.1274667,
+      37.373
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000298",
+    "mobileNo": "07193",
+    "name": "삼환진덕아파트",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.12735,
+      37.4055333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000108",
+    "mobileNo": "07195",
+    "name": "야탑역.종합버스터미널(전면)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1289667,
+      37.4121
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000053",
+    "mobileNo": "07196",
+    "name": "송림고교.이매촌성지아파트.청구아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1280167,
+      37.3930333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000054",
+    "mobileNo": "07197",
+    "name": "이매역",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1280833,
+      37.39675
+    ],
+    "crossCheckMeters": 5.8
+  },
+  {
+    "id": "206000055",
+    "mobileNo": "07198",
+    "name": "성남아트센터.태원고교",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1281333,
+      37.40165
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000027",
+    "mobileNo": "07199",
+    "name": "돌마고교",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1285833,
+      37.39335
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000034",
+    "mobileNo": "07200",
+    "name": "푸른마을신성아파트.수내도서관",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1284667,
+      37.3683667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000157",
+    "mobileNo": "07201",
+    "name": "야탑역.종합버스터미널(전면)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1285,
+      37.4114167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000226",
+    "mobileNo": "07202",
+    "name": "성남아트센터.태원고교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1287167,
+      37.4014667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000158",
+    "mobileNo": "07203",
+    "name": "야탑역.종합버스터미널(후면)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1289667,
+      37.4117
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000049",
+    "mobileNo": "07204",
+    "name": "분당동행정복지센터",
+    "dong": "분당동",
+    "coordinates": [
+      127.1295,
+      37.3699667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000317",
+    "mobileNo": "07205",
+    "name": "양현보도육교",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1296167,
+      37.3842667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000159",
+    "mobileNo": "07206",
+    "name": "돌마초교.야탑역.야탑1동행정복지센터",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.13005,
+      37.4099667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000156",
+    "mobileNo": "07207",
+    "name": "돌마초교.야탑역.야탑1동행정복지센터",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.13025,
+      37.4097167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000148",
+    "mobileNo": "07208",
+    "name": "장미마을",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1300333,
+      37.4137
+    ],
+    "crossCheckMeters": 22.1
+  },
+  {
+    "id": "206000057",
+    "mobileNo": "07209",
+    "name": "야탑중학교",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1305667,
+      37.4168
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000065",
+    "mobileNo": "07210",
+    "name": "야탑동경남아너스빌",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1304833,
+      37.40595
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000141",
+    "mobileNo": "07211",
+    "name": "장미마을",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1305333,
+      37.41395
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000033",
+    "mobileNo": "07212",
+    "name": "분당동행정복지센터",
+    "dong": "분당동",
+    "coordinates": [
+      127.1307333,
+      37.3702167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000064",
+    "mobileNo": "07213",
+    "name": "야탑동경남아너스빌",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1310667,
+      37.40595
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "205000173",
+    "mobileNo": "07214",
+    "name": "야탑중학교",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1317167,
+      37.41705
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000147",
+    "mobileNo": "07215",
+    "name": "장미마을.현대아파트",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1321333,
+      37.4135167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000050",
+    "mobileNo": "07216",
+    "name": "샛별마을동성아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.132,
+      37.3711333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000142",
+    "mobileNo": "07217",
+    "name": "장미마을.현대아파트",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1323667,
+      37.4137167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000186",
+    "mobileNo": "07218",
+    "name": "동아우성아파트.효자촌.시범단지",
+    "dong": "서현1동",
+    "coordinates": [
+      127.133,
+      37.3773833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000319",
+    "mobileNo": "07219",
+    "name": "효자촌",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1334667,
+      37.3773667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000066",
+    "mobileNo": "07220",
+    "name": "평생학습원.중앙도서관",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1331833,
+      37.4073
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000116",
+    "mobileNo": "07221",
+    "name": "매화마을사거리.장미마을8단지",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.13375,
+      37.41395
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000117",
+    "mobileNo": "07222",
+    "name": "장미마을8단지.현대아파트",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1337167,
+      37.4161667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000225",
+    "mobileNo": "07223",
+    "name": "탑마을주공8단지.중앙도서관",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1340167,
+      37.40885
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000114",
+    "mobileNo": "07224",
+    "name": "탑어린이공원",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1340167,
+      37.4111667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000237",
+    "mobileNo": "07225",
+    "name": "서현중학교",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1341167,
+      37.3809333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000112",
+    "mobileNo": "07226",
+    "name": "장미마을8단지.매화마을주공1단지",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1340333,
+      37.4153667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000063",
+    "mobileNo": "07227",
+    "name": "평생학습원.중앙도서관",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1343167,
+      37.4073333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000318",
+    "mobileNo": "07228",
+    "name": "서현중학교",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1342833,
+      37.38125
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000032",
+    "mobileNo": "07229",
+    "name": "그린타운정문",
+    "dong": "서현2동",
+    "coordinates": [
+      127.13495,
+      37.3727333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000146",
+    "mobileNo": "07230",
+    "name": "매화마을사거리.주택단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1350167,
+      37.4132667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000282",
+    "mobileNo": "07231",
+    "name": "한성빌라",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1351333,
+      37.3713333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000292",
+    "mobileNo": "07232",
+    "name": "한성빌라",
+    "dong": "분당동",
+    "coordinates": [
+      127.1350667,
+      37.37105
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000128",
+    "mobileNo": "07233",
+    "name": "삼환아파트",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1352333,
+      37.37335
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000155",
+    "mobileNo": "07234",
+    "name": "탑마을주공8단지",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1354167,
+      37.4095
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000145",
+    "mobileNo": "07235",
+    "name": "매화마을2단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1365167,
+      37.4132167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000143",
+    "mobileNo": "07236",
+    "name": "매화마을2단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1366833,
+      37.4134667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000764",
+    "mobileNo": "07237",
+    "name": "요한성당",
+    "dong": "분당동",
+    "coordinates": [
+      127.1477167,
+      37.3684167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000051",
+    "mobileNo": "07238",
+    "name": "분당등기소",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1367,
+      37.3743833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000031",
+    "mobileNo": "07239",
+    "name": "분당등기소",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1368,
+      37.3741167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000062",
+    "mobileNo": "07240",
+    "name": "영덕여고",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.13745,
+      37.40765
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000052",
+    "mobileNo": "07241",
+    "name": "임광아파트정문.효자촌입구.분당중앙교회",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1375833,
+      37.3778667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000291",
+    "mobileNo": "07242",
+    "name": "대진고등학교",
+    "dong": "분당동",
+    "coordinates": [
+      127.1376833,
+      37.3698333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000283",
+    "mobileNo": "07243",
+    "name": "대진고등학교",
+    "dong": "분당동",
+    "coordinates": [
+      127.1375833,
+      37.37005
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000478",
+    "mobileNo": "07244",
+    "name": "매화마을3단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1378833,
+      37.4150833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000268",
+    "mobileNo": "07245",
+    "name": "하탑중학교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1379167,
+      37.4100333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000129",
+    "mobileNo": "07246",
+    "name": "등기소",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1382167,
+      37.3737167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000154",
+    "mobileNo": "07247",
+    "name": "목련마을1단지.하탑중학교.중탑동사거리",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1383833,
+      37.4093667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000067",
+    "mobileNo": "07248",
+    "name": "영덕여고",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1383333,
+      37.4078667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000161",
+    "mobileNo": "07249",
+    "name": "동신빌라.하탑중학교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.13835,
+      37.4096167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000029",
+    "mobileNo": "07250",
+    "name": "임광아파트정문.효자촌입구.분당중앙교회",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1388,
+      37.37725
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000030",
+    "mobileNo": "07251",
+    "name": "임광아파트후문",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1390167,
+      37.3756833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000118",
+    "mobileNo": "07252",
+    "name": "분당아람고.중탑초교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1389167,
+      37.4135167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000290",
+    "mobileNo": "07253",
+    "name": "장안건영아파트.양영디지털고",
+    "dong": "분당동",
+    "coordinates": [
+      127.1399167,
+      37.37145
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000284",
+    "mobileNo": "07254",
+    "name": "장안타운.건영아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.1397,
+      37.3715167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000153",
+    "mobileNo": "07255",
+    "name": "주공아파트",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.14035,
+      37.4089
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000763",
+    "mobileNo": "07256",
+    "name": "신동아빌라.시네하우스",
+    "dong": "분당동",
+    "coordinates": [
+      127.1398167,
+      37.3681
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000162",
+    "mobileNo": "07257",
+    "name": "건영빌라",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.14,
+      37.4092833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000130",
+    "mobileNo": "07258",
+    "name": "서현유스센터.양영디지털고등학교",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1404667,
+      37.3723667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000264",
+    "mobileNo": "07259",
+    "name": "매화마을주공3단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1408333,
+      37.4144333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000068",
+    "mobileNo": "07261",
+    "name": "목련마을주공1단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.14095,
+      37.4074167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000285",
+    "mobileNo": "07262",
+    "name": "양영디지털고등학교",
+    "dong": "분당동",
+    "coordinates": [
+      127.1413167,
+      37.3727333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000196",
+    "mobileNo": "07263",
+    "name": "건영아파트후문",
+    "dong": "분당동",
+    "coordinates": [
+      127.1415333,
+      37.36855
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "205000175",
+    "mobileNo": "07264",
+    "name": "매화마을주공3단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.14155,
+      37.4145
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000289",
+    "mobileNo": "07266",
+    "name": "장안한신라이프빌라",
+    "dong": "분당동",
+    "coordinates": [
+      127.1420167,
+      37.3734333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000152",
+    "mobileNo": "07267",
+    "name": "성남세관.시니어산업혁신센터",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1424,
+      37.40815
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000061",
+    "mobileNo": "07268",
+    "name": "목련마을한신.맹산생태학습원",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1426667,
+      37.40635
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000163",
+    "mobileNo": "07269",
+    "name": "성남세관.시니어산업혁신센터",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1424,
+      37.4084167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000069",
+    "mobileNo": "07270",
+    "name": "목련마을한신아파트",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1426167,
+      37.4067
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000195",
+    "mobileNo": "07271",
+    "name": "태현공원",
+    "dong": "분당동",
+    "coordinates": [
+      127.1431833,
+      37.3697667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000151",
+    "mobileNo": "07273",
+    "name": "장안타운입구.한신빌라",
+    "dong": "분당동",
+    "coordinates": [
+      127.1437167,
+      37.3744333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000288",
+    "mobileNo": "07274",
+    "name": "장안타운입구.한신빌라",
+    "dong": "분당동",
+    "coordinates": [
+      127.14385,
+      37.37405
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000286",
+    "mobileNo": "07275",
+    "name": "공원마을",
+    "dong": "분당동",
+    "coordinates": [
+      127.1449667,
+      37.3740667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000124",
+    "mobileNo": "07276",
+    "name": "상탑초등학교.성남시한마음복지관",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1452,
+      37.40715
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000070",
+    "mobileNo": "07277",
+    "name": "상탑초등학교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1451,
+      37.4056333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000164",
+    "mobileNo": "07278",
+    "name": "상탑초등학교.성남시한마음복지관",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1449,
+      37.4074667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000194",
+    "mobileNo": "07279",
+    "name": "장안중학교",
+    "dong": "분당동",
+    "coordinates": [
+      127.1458833,
+      37.3715833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000192",
+    "mobileNo": "07280",
+    "name": "장안중학교",
+    "dong": "분당동",
+    "coordinates": [
+      127.1462333,
+      37.3719333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000287",
+    "mobileNo": "07281",
+    "name": "율동공원",
+    "dong": "분당동",
+    "coordinates": [
+      127.1468667,
+      37.3728333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000188",
+    "mobileNo": "07282",
+    "name": "율동공원",
+    "dong": "분당동",
+    "coordinates": [
+      127.14645,
+      37.37275
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000071",
+    "mobileNo": "07283",
+    "name": "영남아파트",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1473,
+      37.4056167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000187",
+    "mobileNo": "07284",
+    "name": "건영빌라.분당요한성당.장안중학교",
+    "dong": "분당동",
+    "coordinates": [
+      127.1478,
+      37.37105
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000123",
+    "mobileNo": "07285",
+    "name": "새마을회관.대원빌라",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.14785,
+      37.40635
+    ],
+    "crossCheckMeters": 9.5
+  },
+  {
+    "id": "206000060",
+    "mobileNo": "07286",
+    "name": "영남아파트",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1478667,
+      37.4054167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000165",
+    "mobileNo": "07287",
+    "name": "대원빌라",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1477833,
+      37.4066
+    ],
+    "crossCheckMeters": 13.2
+  },
+  {
+    "id": "206000193",
+    "mobileNo": "07288",
+    "name": "분당요한성당",
+    "dong": "분당동",
+    "coordinates": [
+      127.148,
+      37.36945
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000072",
+    "mobileNo": "07289",
+    "name": "야탑3치안센터",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1486667,
+      37.4055
+    ],
+    "crossCheckMeters": 1.9
+  },
+  {
+    "id": "206000122",
+    "mobileNo": "07290",
+    "name": "테크노파크.아파트동",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1514333,
+      37.40475
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000166",
+    "mobileNo": "07291",
+    "name": "테크노파크.아파트동",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1514167,
+      37.4049833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000073",
+    "mobileNo": "07293",
+    "name": "목련마을SK아파트(마을)",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1547167,
+      37.4055167
+    ],
+    "crossCheckMeters": 4.7
+  },
+  {
+    "id": "206000121",
+    "mobileNo": "07294",
+    "name": "야탑고교.예비군훈련장",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1548833,
+      37.4053167
+    ],
+    "crossCheckMeters": 17.7
+  },
+  {
+    "id": "206000048",
+    "mobileNo": "07300",
+    "name": "동국대한방병원.신성아파트.수내도서관",
+    "dong": "수내3동",
+    "coordinates": [
+      127.12815,
+      37.3684667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000028",
+    "mobileNo": "07301",
+    "name": "송림고등학교.이매촌청구아파트.동신아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1284667,
+      37.3919833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000299",
+    "mobileNo": "07302",
+    "name": "서현역.AK플라자",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1245333,
+      37.3839833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000314",
+    "mobileNo": "07303",
+    "name": "성남역.이매고교.아름마을.효성선경아파트",
+    "dong": "이매2동",
+    "coordinates": [
+      127.1236333,
+      37.39535
+    ],
+    "crossCheckMeters": 28.1
+  },
+  {
+    "id": "206000085",
+    "mobileNo": "07304",
+    "name": "상록마을",
+    "dong": "정자1동",
+    "coordinates": [
+      127.10855,
+      37.3578667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000144",
+    "mobileNo": "07305",
+    "name": "분당아람고등학교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.13835,
+      37.41325
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000212",
+    "mobileNo": "07306",
+    "name": "로얄냉장",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1018833,
+      37.3538333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000211",
+    "mobileNo": "07307",
+    "name": "보바스병원",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1019,
+      37.3579
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000199",
+    "mobileNo": "07308",
+    "name": "아데나펠리스",
+    "dong": "정자1동",
+    "coordinates": [
+      127.10835,
+      37.3611167
+    ],
+    "crossCheckMeters": 18.7
+  },
+  {
+    "id": "206000119",
+    "mobileNo": "07312",
+    "name": "야탑3동행정복지센터",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1384167,
+      37.4113833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "205000210",
+    "mobileNo": "07313",
+    "name": "매화마을3단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1384167,
+      37.4150667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000115",
+    "mobileNo": "07314",
+    "name": "탑어린이공원",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.13375,
+      37.4117333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000113",
+    "mobileNo": "07315",
+    "name": "매화마을사거리.매화마을2단지",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1340333,
+      37.4140167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000110",
+    "mobileNo": "07316",
+    "name": "분당아람고.중탑초교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1385833,
+      37.4135667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000109",
+    "mobileNo": "07317",
+    "name": "야탑3동행정복지센터",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1380667,
+      37.41095
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000083",
+    "mobileNo": "07319",
+    "name": "중앙공원.양지마을금호아파트",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1196333,
+      37.3791833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000238",
+    "mobileNo": "07321",
+    "name": "양현보도육교.시범삼성한신아파트",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1287667,
+      37.3843333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000227",
+    "mobileNo": "07322",
+    "name": "이매역.진흥아파트.동신아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1287667,
+      37.3976
+    ],
+    "crossCheckMeters": 11.5
+  },
+  {
+    "id": "206000217",
+    "mobileNo": "07323",
+    "name": "분당중앙공원",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1235167,
+      37.3735667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000185",
+    "mobileNo": "07324",
+    "name": "중앙공원.샛별마을라이프아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.1293667,
+      37.3749
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000184",
+    "mobileNo": "07325",
+    "name": "중앙공원.샛별마을우방아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.1261833,
+      37.3726333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000160",
+    "mobileNo": "07326",
+    "name": "탑마을주공8단지",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1348333,
+      37.4096667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000102",
+    "mobileNo": "07327",
+    "name": "서현역.분당우체국",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1224167,
+      37.3860833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000099",
+    "mobileNo": "07328",
+    "name": "중앙공원.양지마을금호아파트",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1196333,
+      37.3785333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000097",
+    "mobileNo": "07329",
+    "name": "상록마을(임광.보성).미켈란쉐르빌",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1079333,
+      37.3589167
+    ],
+    "crossCheckMeters": 8.3
+  },
+  {
+    "id": "206000096",
+    "mobileNo": "07330",
+    "name": "분당경영고.한라아파트",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1084167,
+      37.35575
+    ],
+    "crossCheckMeters": 7.1
+  },
+  {
+    "id": "206000095",
+    "mobileNo": "07331",
+    "name": "미금역.청솔마을.2001아울렛",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1086,
+      37.3507167
+    ],
+    "crossCheckMeters": 5.5
+  },
+  {
+    "id": "206000088",
+    "mobileNo": "07332",
+    "name": "까치마을.건영빌라.2001아울렛",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1091333,
+      37.3475167
+    ],
+    "crossCheckMeters": 9.4
+  },
+  {
+    "id": "206000087",
+    "mobileNo": "07333",
+    "name": "미금역.청솔마을.2001아울렛",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1091833,
+      37.3510667
+    ],
+    "crossCheckMeters": 11.1
+  },
+  {
+    "id": "206000086",
+    "mobileNo": "07334",
+    "name": "청솔주공6단지",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1091,
+      37.3543
+    ],
+    "crossCheckMeters": 6.3
+  },
+  {
+    "id": "206000320",
+    "mobileNo": "07335",
+    "name": "중앙공원.샛별마을.라이프아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.1298667,
+      37.3747333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000301",
+    "mobileNo": "07336",
+    "name": "중앙공원.양지마을청구아파트",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1212333,
+      37.37615
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000274",
+    "mobileNo": "07337",
+    "name": "탑마을대우아파트.선경아파트",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1232833,
+      37.4078667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000271",
+    "mobileNo": "07338",
+    "name": "탑마을대우아파트.선경아파트",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1235833,
+      37.4077833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000265",
+    "mobileNo": "07339",
+    "name": "하탑중학교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1381833,
+      37.41025
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000056",
+    "mobileNo": "07340",
+    "name": "탑마을주공8단지.중앙도서관",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.13365,
+      37.40805
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000343",
+    "mobileNo": "07346",
+    "name": "한국석유관리원.우리들교회",
+    "dong": "판교동",
+    "coordinates": [
+      127.1004333,
+      37.3821667
+    ],
+    "crossCheckMeters": 2.8
+  },
+  {
+    "id": "206000518",
+    "mobileNo": "07347",
+    "name": "국군수도병원정문",
+    "dong": "서현1동",
+    "coordinates": [
+      127.14945,
+      37.3907167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000344",
+    "mobileNo": "07348",
+    "name": "율동아파트",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1503833,
+      37.38925
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000345",
+    "mobileNo": "07349",
+    "name": "율동아파트",
+    "dong": "서현1동",
+    "coordinates": [
+      127.15045,
+      37.3895
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000346",
+    "mobileNo": "07350",
+    "name": "새마을연수원사거리",
+    "dong": "서현1동",
+    "coordinates": [
+      127.15025,
+      37.3839
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000347",
+    "mobileNo": "07351",
+    "name": "새마을연수원사거리",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1503167,
+      37.3841667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000354",
+    "mobileNo": "07352",
+    "name": "한국석유관리원.우리들교회",
+    "dong": "판교동",
+    "coordinates": [
+      127.09925,
+      37.3818833
+    ],
+    "crossCheckMeters": 1.1
+  },
+  {
+    "id": "206000349",
+    "mobileNo": "07353",
+    "name": "천은정사",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1426833,
+      37.38315
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000351",
+    "mobileNo": "07354",
+    "name": "서현포스파크",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1391833,
+      37.3832333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000350",
+    "mobileNo": "07355",
+    "name": "서현포스파크",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1396167,
+      37.3830667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000352",
+    "mobileNo": "07356",
+    "name": "통로골",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1364167,
+      37.38335
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000353",
+    "mobileNo": "07357",
+    "name": "통로골",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1366167,
+      37.3831333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000355",
+    "mobileNo": "07359",
+    "name": "분당야탑물류센터",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1193,
+      37.4151333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000356",
+    "mobileNo": "07360",
+    "name": "분당야탑물류센터",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1194167,
+      37.4153
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000357",
+    "mobileNo": "07361",
+    "name": "탄천종합운동장",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.12235,
+      37.4105667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000358",
+    "mobileNo": "07362",
+    "name": "탄천종합운동장",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1222167,
+      37.4110833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000361",
+    "mobileNo": "07367",
+    "name": "동부.코오롱아파트",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1285167,
+      37.4158833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000364",
+    "mobileNo": "07370",
+    "name": "궁안마을입구",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1007333,
+      37.3695167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000365",
+    "mobileNo": "07371",
+    "name": "궁안마을",
+    "dong": "금곡동",
+    "coordinates": [
+      127.099,
+      37.3697167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000391",
+    "mobileNo": "07374",
+    "name": "동원.SK아파트",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1432833,
+      37.4129333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000390",
+    "mobileNo": "07375",
+    "name": "동원.SK아파트",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1440667,
+      37.4133167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000388",
+    "mobileNo": "07377",
+    "name": "성은학교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1437,
+      37.40895
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000373",
+    "mobileNo": "07378",
+    "name": "야탑3치안센터",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1491333,
+      37.4051333
+    ],
+    "crossCheckMeters": 1.9
+  },
+  {
+    "id": "206000379",
+    "mobileNo": "07379",
+    "name": "서현고등학교",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1233667,
+      37.3805167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000380",
+    "mobileNo": "07380",
+    "name": "서현고등학교",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1236833,
+      37.3807167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000426",
+    "mobileNo": "07381",
+    "name": "중앙공원",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1294833,
+      37.3759167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000425",
+    "mobileNo": "07383",
+    "name": "효자촌사거리",
+    "dong": "분당동",
+    "coordinates": [
+      127.1306,
+      37.3750167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000392",
+    "mobileNo": "07386",
+    "name": "쌍용아파트",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.1284333,
+      37.4068667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000436",
+    "mobileNo": "07387",
+    "name": "AK플라자2층",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1238,
+      37.3845667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000167",
+    "mobileNo": "07389",
+    "name": "선경아파트",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1557,
+      37.4055
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000348",
+    "mobileNo": "07390",
+    "name": "천은정사",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1435,
+      37.3833667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000431",
+    "mobileNo": "07391",
+    "name": "올림픽스포츠센터",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1291833,
+      37.3812667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000430",
+    "mobileNo": "07392",
+    "name": "분당어린이공원.우성아파트",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1315,
+      37.3795667
+    ],
+    "crossCheckMeters": 3.4
+  },
+  {
+    "id": "206000429",
+    "mobileNo": "07393",
+    "name": "동아아파트",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1344333,
+      37.3770333
+    ],
+    "crossCheckMeters": 5.8
+  },
+  {
+    "id": "206000428",
+    "mobileNo": "07394",
+    "name": "효자촌현대아파트.서현2동행정복지센터",
+    "dong": "서현2동",
+    "coordinates": [
+      127.13365,
+      37.3763167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000427",
+    "mobileNo": "07395",
+    "name": "현대시범아파트",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1289333,
+      37.3769167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000424",
+    "mobileNo": "07396",
+    "name": "서당초등학교.삼환상가앞",
+    "dong": "서현2동",
+    "coordinates": [
+      127.13555,
+      37.3746167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000423",
+    "mobileNo": "07397",
+    "name": "한라쇼핑앞.효자촌임광아파트",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1367,
+      37.3750333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000422",
+    "mobileNo": "07398",
+    "name": "동성아파트상가",
+    "dong": "분당동",
+    "coordinates": [
+      127.1331167,
+      37.3727
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000440",
+    "mobileNo": "07399",
+    "name": "아름마을.방아다리사거리",
+    "dong": "이매2동",
+    "coordinates": [
+      127.12365,
+      37.3999333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000439",
+    "mobileNo": "07400",
+    "name": "아름마을.방아다리사거리",
+    "dong": "이매2동",
+    "coordinates": [
+      127.12345,
+      37.3999167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000435",
+    "mobileNo": "07401",
+    "name": "한양아파트",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1247833,
+      37.3830333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000433",
+    "mobileNo": "07402",
+    "name": "서현1동행정복지센터",
+    "dong": "서현1동",
+    "coordinates": [
+      127.12605,
+      37.3819833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000441",
+    "mobileNo": "07404",
+    "name": "경남아너스빌",
+    "dong": "야탑2동",
+    "coordinates": [
+      127.12895,
+      37.4073333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000384",
+    "mobileNo": "07405",
+    "name": "서현도서관",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1325667,
+      37.38325
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000385",
+    "mobileNo": "07406",
+    "name": "서현도서관",
+    "dong": "서현1동",
+    "coordinates": [
+      127.13285,
+      37.3831667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000681",
+    "mobileNo": "07407",
+    "name": "판교역서편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1098333,
+      37.3948167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000405",
+    "mobileNo": "07409",
+    "name": "성우스타우스",
+    "dong": "구미동",
+    "coordinates": [
+      127.1111833,
+      37.3379333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000399",
+    "mobileNo": "07410",
+    "name": "청솔마을",
+    "dong": "구미1동",
+    "coordinates": [
+      127.11635,
+      37.3525833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000609",
+    "mobileNo": "07412",
+    "name": "판교동행정복지센터",
+    "dong": "판교동",
+    "coordinates": [
+      127.0977,
+      37.3892167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000420",
+    "mobileNo": "07413",
+    "name": "장안초등학교(마을)",
+    "dong": "분당동",
+    "coordinates": [
+      127.1445,
+      37.3707167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000608",
+    "mobileNo": "07416",
+    "name": "판교동행정복지센터",
+    "dong": "판교동",
+    "coordinates": [
+      127.0975,
+      37.3891
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000602",
+    "mobileNo": "07417",
+    "name": "낙생고등학교",
+    "dong": "판교동",
+    "coordinates": [
+      127.10185,
+      37.3870667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000606",
+    "mobileNo": "07419",
+    "name": "낙생초등학교",
+    "dong": "판교동",
+    "coordinates": [
+      127.0981167,
+      37.3936
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000537",
+    "mobileNo": "07420",
+    "name": "성남역.백현마을3단지",
+    "dong": "백현동",
+    "coordinates": [
+      127.11815,
+      37.3917833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000704",
+    "mobileNo": "07424",
+    "name": "신백현중학교.단독택지",
+    "dong": "백현동",
+    "coordinates": [
+      127.1110333,
+      37.3853167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000463",
+    "mobileNo": "07425",
+    "name": "한진7단지(마을)",
+    "dong": "정자1동",
+    "coordinates": [
+      127.115,
+      37.3610167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000460",
+    "mobileNo": "07428",
+    "name": "오리역.하나로마트(마을)",
+    "dong": "구미동",
+    "coordinates": [
+      127.10915,
+      37.3393167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000453",
+    "mobileNo": "07430",
+    "name": "건영아파트(마을)",
+    "dong": "분당동",
+    "coordinates": [
+      127.13935,
+      37.3710167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000458",
+    "mobileNo": "07433",
+    "name": "우성상가",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1322667,
+      37.3775167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000457",
+    "mobileNo": "07434",
+    "name": "시범현대아파트",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1296167,
+      37.3794167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000639",
+    "mobileNo": "07435",
+    "name": "동안교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1094833,
+      37.3972167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000438",
+    "mobileNo": "07436",
+    "name": "양현보도육교",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1300333,
+      37.38415
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000434",
+    "mobileNo": "07437",
+    "name": "서현문화의집",
+    "dong": "서현1동",
+    "coordinates": [
+      127.12685,
+      37.3827167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000389",
+    "mobileNo": "07438",
+    "name": "성남세관후문.성은학교",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1433167,
+      37.40895
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000470",
+    "mobileNo": "07440",
+    "name": "운중동먹거리촌",
+    "dong": "운중동",
+    "coordinates": [
+      127.05835,
+      37.3915167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000442",
+    "mobileNo": "07441",
+    "name": "대진빌라",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1451667,
+      37.4053833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000676",
+    "mobileNo": "07443",
+    "name": "매화마을주공4단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.14205,
+      37.413
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000376",
+    "mobileNo": "07444",
+    "name": "장안중학교후문",
+    "dong": "분당동",
+    "coordinates": [
+      127.1474667,
+      37.3708667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000044",
+    "mobileNo": "07445",
+    "name": "동아2차아파트.우성6차아파트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1229333,
+      37.36135
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000477",
+    "mobileNo": "07446",
+    "name": "궁안마을",
+    "dong": "금곡동",
+    "coordinates": [
+      127.0940667,
+      37.3702833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000011",
+    "mobileNo": "07447",
+    "name": "한국학중앙연구원",
+    "dong": "운중동",
+    "coordinates": [
+      127.0563,
+      37.3916
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000455",
+    "mobileNo": "07448",
+    "name": "시범상가",
+    "dong": "서현1동",
+    "coordinates": [
+      127.128,
+      37.3809
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000760",
+    "mobileNo": "07449",
+    "name": "파크뷰아파트.정자유스센터",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1070167,
+      37.3722833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000640",
+    "mobileNo": "07450",
+    "name": "동안교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1098667,
+      37.39725
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000479",
+    "mobileNo": "07451",
+    "name": "청솔마을(공항버스)",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1091167,
+      37.3524833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000480",
+    "mobileNo": "07452",
+    "name": "석운동",
+    "dong": "운중동",
+    "coordinates": [
+      127.0469667,
+      37.3805167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000703",
+    "mobileNo": "07454",
+    "name": "백현마을9단지",
+    "dong": "백현동",
+    "coordinates": [
+      127.1092333,
+      37.3853167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000682",
+    "mobileNo": "07455",
+    "name": "판교역서편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1095167,
+      37.3947167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000490",
+    "mobileNo": "07456",
+    "name": "석운동",
+    "dong": "운중동",
+    "coordinates": [
+      127.0470333,
+      37.3803833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000491",
+    "mobileNo": "07458",
+    "name": "동원SK삼거리",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1435833,
+      37.4124667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000775",
+    "mobileNo": "07461",
+    "name": "낙생지하차도",
+    "dong": "백현동",
+    "coordinates": [
+      127.1098333,
+      37.39295
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000686",
+    "mobileNo": "07463",
+    "name": "궁내동",
+    "dong": "금곡동",
+    "coordinates": [
+      127.10155,
+      37.3754
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000506",
+    "mobileNo": "07464",
+    "name": "동대문교회",
+    "dong": "분당동",
+    "coordinates": [
+      127.1426333,
+      37.36635
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000505",
+    "mobileNo": "07465",
+    "name": "지역난방공사",
+    "dong": "분당동",
+    "coordinates": [
+      127.14545,
+      37.3674167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000504",
+    "mobileNo": "07466",
+    "name": "요한성당",
+    "dong": "분당동",
+    "coordinates": [
+      127.1476667,
+      37.3686667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000607",
+    "mobileNo": "07471",
+    "name": "낙생초등학교.판교원마을10단지",
+    "dong": "판교동",
+    "coordinates": [
+      127.0984167,
+      37.3931
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000672",
+    "mobileNo": "07472",
+    "name": "분당중앙고앞",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1226333,
+      37.35985
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000674",
+    "mobileNo": "07473",
+    "name": "궁내동톨게이트입구",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1019,
+      37.3605667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000745",
+    "mobileNo": "07474",
+    "name": "판교PDCC.NS홈쇼핑",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1007833,
+      37.4025833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000001",
+    "mobileNo": "07475",
+    "name": "백현교차로",
+    "dong": "백현동",
+    "coordinates": [
+      127.1021,
+      37.3826333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000498",
+    "mobileNo": "07476",
+    "name": "구미동차고지앞",
+    "dong": "구미동",
+    "coordinates": [
+      127.1060333,
+      37.3423333
+    ],
+    "crossCheckMeters": 4.4
+  },
+  {
+    "id": "206000741",
+    "mobileNo": "07477",
+    "name": "석운전원마을",
+    "dong": "운중동",
+    "coordinates": [
+      127.0450667,
+      37.3734167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000683",
+    "mobileNo": "07478",
+    "name": "판교역남편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1115,
+      37.39385
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000678",
+    "mobileNo": "07479",
+    "name": "H스퀘어.삼환하이펙스",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10945,
+      37.40185
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000776",
+    "mobileNo": "07480",
+    "name": "효자촌.삼환아파트",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1334333,
+      37.3729
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000514",
+    "mobileNo": "07482",
+    "name": "오리역(마을)",
+    "dong": "구미동",
+    "coordinates": [
+      127.1087667,
+      37.33915
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000515",
+    "mobileNo": "07483",
+    "name": "이매촌한신.서현역.AK프라자",
+    "dong": "이매1동",
+    "coordinates": [
+      127.126,
+      37.3872
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000220",
+    "mobileNo": "07484",
+    "name": "머내기업은행",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1025,
+      37.3410667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000230",
+    "mobileNo": "07485",
+    "name": "머내기업은행",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1028667,
+      37.3419833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000125",
+    "mobileNo": "07486",
+    "name": "농수산물센터사거리.LG트윈하우스",
+    "dong": "구미동",
+    "coordinates": [
+      127.1096667,
+      37.3357667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000530",
+    "mobileNo": "07487",
+    "name": "성남역.백현마을2단지",
+    "dong": "백현동",
+    "coordinates": [
+      127.1182333,
+      37.3921167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000531",
+    "mobileNo": "07488",
+    "name": "백현마을1단지",
+    "dong": "백현동",
+    "coordinates": [
+      127.1145,
+      37.3919667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000532",
+    "mobileNo": "07489",
+    "name": "판교역.낙생육교.현대백화점",
+    "dong": "백현동",
+    "coordinates": [
+      127.1118833,
+      37.3918667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000534",
+    "mobileNo": "07491",
+    "name": "지역난방공사",
+    "dong": "판교동",
+    "coordinates": [
+      127.10475,
+      37.3934333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000535",
+    "mobileNo": "07492",
+    "name": "판교역.낙생육교.현대백화점",
+    "dong": "백현동",
+    "coordinates": [
+      127.1117,
+      37.3914833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000536",
+    "mobileNo": "07493",
+    "name": "백현마을4단지",
+    "dong": "백현동",
+    "coordinates": [
+      127.1156833,
+      37.3916667
+    ],
+    "crossCheckMeters": 7.6
+  },
+  {
+    "id": "206000538",
+    "mobileNo": "07494",
+    "name": "화랑공원남편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1067333,
+      37.3953333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000539",
+    "mobileNo": "07495",
+    "name": "금토천교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1060333,
+      37.4013
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000540",
+    "mobileNo": "07496",
+    "name": "삼평교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1047833,
+      37.4041333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000542",
+    "mobileNo": "07498",
+    "name": "삼평교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1041667,
+      37.4039167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000543",
+    "mobileNo": "07499",
+    "name": "금토천교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10555,
+      37.4012
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000544",
+    "mobileNo": "07500",
+    "name": "화랑공원남편",
+    "dong": "판교동",
+    "coordinates": [
+      127.1063167,
+      37.3954833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000554",
+    "mobileNo": "07501",
+    "name": "판교유스센터.판교종합사회복지관",
+    "dong": "판교동",
+    "coordinates": [
+      127.0916833,
+      37.38935
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000555",
+    "mobileNo": "07502",
+    "name": "판교유스센터.판교종합사회복지관",
+    "dong": "판교동",
+    "coordinates": [
+      127.0919333,
+      37.3889833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000548",
+    "mobileNo": "07503",
+    "name": "힐스테이트",
+    "dong": "판교동",
+    "coordinates": [
+      127.0941,
+      37.3997167
+    ],
+    "crossCheckMeters": 3.4
+  },
+  {
+    "id": "206000549",
+    "mobileNo": "07504",
+    "name": "성내미육교.판교박물관",
+    "dong": "판교동",
+    "coordinates": [
+      127.0959167,
+      37.4006667
+    ],
+    "crossCheckMeters": 6.3
+  },
+  {
+    "id": "206000551",
+    "mobileNo": "07505",
+    "name": "성내미육교.판교박물관",
+    "dong": "판교동",
+    "coordinates": [
+      127.0956333,
+      37.4001333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000557",
+    "mobileNo": "07506",
+    "name": "운중초등학교",
+    "dong": "운중동",
+    "coordinates": [
+      127.0667833,
+      37.3916
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000558",
+    "mobileNo": "07507",
+    "name": "운중초등학교",
+    "dong": "운중동",
+    "coordinates": [
+      127.0665667,
+      37.39135
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000562",
+    "mobileNo": "07508",
+    "name": "차그룹컨소시엄",
+    "dong": "삼평동",
+    "coordinates": [
+      127.11095,
+      37.40335
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000563",
+    "mobileNo": "07509",
+    "name": "한국무역정보통신",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1109833,
+      37.4030833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000564",
+    "mobileNo": "07510",
+    "name": "봇들육교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1076667,
+      37.4033667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000565",
+    "mobileNo": "07511",
+    "name": "유라코퍼레이션.SK케미칼",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1076833,
+      37.4030667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000566",
+    "mobileNo": "07512",
+    "name": "이노밸리.포스코DX",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1030667,
+      37.4033667
+    ],
+    "crossCheckMeters": 22.1
+  },
+  {
+    "id": "206000567",
+    "mobileNo": "07513",
+    "name": "SK플래닛.판교디지털센터",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10315,
+      37.4030167
+    ],
+    "crossCheckMeters": 4.4
+  },
+  {
+    "id": "206000778",
+    "mobileNo": "07514",
+    "name": "낙생지하차도",
+    "dong": "백현동",
+    "coordinates": [
+      127.1094833,
+      37.39295
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000556",
+    "mobileNo": "07515",
+    "name": "뫼루니육교",
+    "dong": "운중동",
+    "coordinates": [
+      127.0830333,
+      37.3913
+    ],
+    "crossCheckMeters": 1.9
+  },
+  {
+    "id": "206000561",
+    "mobileNo": "07516",
+    "name": "화랑공원동편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1068333,
+      37.3974167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000579",
+    "mobileNo": "07517",
+    "name": "봇들마을5단지.테크노육교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.11315,
+      37.4014333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000582",
+    "mobileNo": "07520",
+    "name": "메디포스트",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1087167,
+      37.39995
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000578",
+    "mobileNo": "07521",
+    "name": "봇들마을5단지",
+    "dong": "삼평동",
+    "coordinates": [
+      127.11275,
+      37.4014
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000583",
+    "mobileNo": "07522",
+    "name": "엔씨",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1086167,
+      37.3997333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000568",
+    "mobileNo": "07523",
+    "name": "노인요양원",
+    "dong": "운중동",
+    "coordinates": [
+      127.0451667,
+      37.37545
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000570",
+    "mobileNo": "07524",
+    "name": "석운동종점",
+    "dong": "운중동",
+    "coordinates": [
+      127.0503833,
+      37.36665
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000576",
+    "mobileNo": "07525",
+    "name": "두영전자",
+    "dong": "운중동",
+    "coordinates": [
+      127.0505667,
+      37.3680333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000574",
+    "mobileNo": "07526",
+    "name": "노인요양원",
+    "dong": "운중동",
+    "coordinates": [
+      127.04535,
+      37.3757667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000575",
+    "mobileNo": "07527",
+    "name": "두영전자",
+    "dong": "운중동",
+    "coordinates": [
+      127.0503833,
+      37.3676833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000597",
+    "mobileNo": "07532",
+    "name": "건영LIG앞",
+    "dong": "운중동",
+    "coordinates": [
+      127.0683833,
+      37.3899333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000599",
+    "mobileNo": "07534",
+    "name": "판교포레라움아파트정문",
+    "dong": "운중동",
+    "coordinates": [
+      127.0745,
+      37.3893833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000517",
+    "mobileNo": "07545",
+    "name": "서현1동.우성아파트",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1305,
+      37.3801333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000601",
+    "mobileNo": "07546",
+    "name": "분당구청.서현역",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1206833,
+      37.3834
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000604",
+    "mobileNo": "07547",
+    "name": "불꽃교회",
+    "dong": "판교동",
+    "coordinates": [
+      127.09755,
+      37.397
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000605",
+    "mobileNo": "07548",
+    "name": "불꽃교회",
+    "dong": "판교동",
+    "coordinates": [
+      127.0979167,
+      37.3967333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000603",
+    "mobileNo": "07549",
+    "name": "판교원마을11단지.낙원중",
+    "dong": "판교동",
+    "coordinates": [
+      127.0956667,
+      37.3989167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000612",
+    "mobileNo": "07550",
+    "name": "분당구청.서현역",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1199167,
+      37.3835667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000550",
+    "mobileNo": "07551",
+    "name": "판교원마을11단지.낙원중",
+    "dong": "판교동",
+    "coordinates": [
+      127.0957833,
+      37.3985333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000577",
+    "mobileNo": "07552",
+    "name": "화랑공원동편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1072,
+      37.3969333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000552",
+    "mobileNo": "07553",
+    "name": "성남시운중도서관",
+    "dong": "운중동",
+    "coordinates": [
+      127.07575,
+      37.3900833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000553",
+    "mobileNo": "07554",
+    "name": "성남시운중도서관",
+    "dong": "운중동",
+    "coordinates": [
+      127.0755333,
+      37.3901833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000615",
+    "mobileNo": "07555",
+    "name": "봇들마을9단지",
+    "dong": "삼평동",
+    "coordinates": [
+      127.11695,
+      37.398
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000616",
+    "mobileNo": "07556",
+    "name": "성남역.보평중고등학교",
+    "dong": "삼평동",
+    "coordinates": [
+      127.11665,
+      37.39495
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000617",
+    "mobileNo": "07557",
+    "name": "성남역.보평중고등학교",
+    "dong": "백현동",
+    "coordinates": [
+      127.1169667,
+      37.3946833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000614",
+    "mobileNo": "07558",
+    "name": "봇들마을7단지",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1166667,
+      37.3980833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000618",
+    "mobileNo": "07560",
+    "name": "이매촌한신.서현역.AK프라자",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1258333,
+      37.3868667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000613",
+    "mobileNo": "07561",
+    "name": "이매촌한신.서현역.AK프라자",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1243,
+      37.3887167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000626",
+    "mobileNo": "07562",
+    "name": "백현마을8단지",
+    "dong": "백현동",
+    "coordinates": [
+      127.1085167,
+      37.3863833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000622",
+    "mobileNo": "07565",
+    "name": "백현마을4단지상가",
+    "dong": "백현동",
+    "coordinates": [
+      127.1147833,
+      37.3880833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000620",
+    "mobileNo": "07566",
+    "name": "백현마을3.4단지.화랑초등학교",
+    "dong": "백현동",
+    "coordinates": [
+      127.11665,
+      37.3899167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000623",
+    "mobileNo": "07567",
+    "name": "백현마을4단지상가",
+    "dong": "백현동",
+    "coordinates": [
+      127.1149167,
+      37.3879167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000621",
+    "mobileNo": "07568",
+    "name": "백현마을3.4단지.화랑초등학교",
+    "dong": "백현동",
+    "coordinates": [
+      127.1169333,
+      37.3900333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000625",
+    "mobileNo": "07569",
+    "name": "백현동행정복지센터",
+    "dong": "백현동",
+    "coordinates": [
+      127.1102,
+      37.3878167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000637",
+    "mobileNo": "07570",
+    "name": "판교역동편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1127,
+      37.3953833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000632",
+    "mobileNo": "07571",
+    "name": "백현육교",
+    "dong": "백현동",
+    "coordinates": [
+      127.1132,
+      37.3894333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000630",
+    "mobileNo": "07572",
+    "name": "신백현초등학교",
+    "dong": "백현동",
+    "coordinates": [
+      127.1132167,
+      37.38705
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000631",
+    "mobileNo": "07573",
+    "name": "백현육교",
+    "dong": "백현동",
+    "coordinates": [
+      127.1127167,
+      37.3892167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000629",
+    "mobileNo": "07574",
+    "name": "신백현초등학교",
+    "dong": "백현동",
+    "coordinates": [
+      127.1125,
+      37.3864833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000633",
+    "mobileNo": "07575",
+    "name": "백현마을5단지",
+    "dong": "백현동",
+    "coordinates": [
+      127.1127167,
+      37.3909667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000635",
+    "mobileNo": "07576",
+    "name": "판교역동편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1131833,
+      37.3947833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000634",
+    "mobileNo": "07577",
+    "name": "백현마을4단지",
+    "dong": "백현동",
+    "coordinates": [
+      127.1132,
+      37.39075
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000638",
+    "mobileNo": "07578",
+    "name": "웰츠타워",
+    "dong": "삼평동",
+    "coordinates": [
+      127.11275,
+      37.3977
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000624",
+    "mobileNo": "07579",
+    "name": "백현동행정복지센터",
+    "dong": "백현동",
+    "coordinates": [
+      127.1097167,
+      37.3880667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000636",
+    "mobileNo": "07580",
+    "name": "판교호반써밋플레이스",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1131333,
+      37.3979833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000658",
+    "mobileNo": "07581",
+    "name": "라이트온교회.월든힐스아파트",
+    "dong": "운중동",
+    "coordinates": [
+      127.0639667,
+      37.39205
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000657",
+    "mobileNo": "07582",
+    "name": "라이트온교회.월든힐스아파트",
+    "dong": "운중동",
+    "coordinates": [
+      127.0641,
+      37.3921333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000651",
+    "mobileNo": "07583",
+    "name": "산운마을12단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.07195,
+      37.3896
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000653",
+    "mobileNo": "07587",
+    "name": "판교포레라움아파트후문",
+    "dong": "운중동",
+    "coordinates": [
+      127.0753,
+      37.3888833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000654",
+    "mobileNo": "07588",
+    "name": "판교포레라움아파트후문",
+    "dong": "운중동",
+    "coordinates": [
+      127.0755333,
+      37.3888333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000669",
+    "mobileNo": "07589",
+    "name": "청구빌라앞",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1399667,
+      37.4128833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000743",
+    "mobileNo": "07591",
+    "name": "기숙사",
+    "dong": "운중동",
+    "coordinates": [
+      127.0497,
+      37.37015
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000649",
+    "mobileNo": "07592",
+    "name": "태영데시앙",
+    "dong": "운중동",
+    "coordinates": [
+      127.0745667,
+      37.3864167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000648",
+    "mobileNo": "07593",
+    "name": "경남아너스빌.서판교성당",
+    "dong": "운중동",
+    "coordinates": [
+      127.0744,
+      37.3839
+    ],
+    "crossCheckMeters": 68.6
+  },
+  {
+    "id": "206000647",
+    "mobileNo": "07594",
+    "name": "경남아너스빌.서판교성당",
+    "dong": "운중동",
+    "coordinates": [
+      127.0741333,
+      37.38445
+    ],
+    "crossCheckMeters": 13.7
+  },
+  {
+    "id": "206000650",
+    "mobileNo": "07595",
+    "name": "태영데시앙",
+    "dong": "운중동",
+    "coordinates": [
+      127.0744,
+      37.38675
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000687",
+    "mobileNo": "07601",
+    "name": "이매역3번출구",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1290667,
+      37.3942
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000692",
+    "mobileNo": "07602",
+    "name": "포스파크.띠아모",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1329167,
+      37.3915667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000694",
+    "mobileNo": "07603",
+    "name": "갈보리교회",
+    "dong": "이매1동",
+    "coordinates": [
+      127.134,
+      37.3911333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000698",
+    "mobileNo": "07604",
+    "name": "조이빌리지",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1361,
+      37.3903167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000691",
+    "mobileNo": "07606",
+    "name": "포스파크.띠아모",
+    "dong": "이매1동",
+    "coordinates": [
+      127.13305,
+      37.3916667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000690",
+    "mobileNo": "07607",
+    "name": "송림중고.돌마고교",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1317,
+      37.3925667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000696",
+    "mobileNo": "07608",
+    "name": "국군수도병원정문",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1496833,
+      37.39065
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000702",
+    "mobileNo": "07609",
+    "name": "럭키타운",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1389833,
+      37.3898
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000697",
+    "mobileNo": "07611",
+    "name": "조이빌리지",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1361667,
+      37.3904333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000693",
+    "mobileNo": "07612",
+    "name": "갈보리교회",
+    "dong": "이매1동",
+    "coordinates": [
+      127.13405,
+      37.3912167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000689",
+    "mobileNo": "07613",
+    "name": "송림중고.돌마고교",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1317833,
+      37.3927167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000688",
+    "mobileNo": "07614",
+    "name": "이매역3번출구",
+    "dong": "이매1동",
+    "coordinates": [
+      127.12885,
+      37.3941667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000701",
+    "mobileNo": "07615",
+    "name": "럭키타운",
+    "dong": "이매1동",
+    "coordinates": [
+      127.139,
+      37.3899333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000695",
+    "mobileNo": "07616",
+    "name": "이매촌한신.서현역.AK프라자",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1243667,
+      37.3882
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000724",
+    "mobileNo": "07617",
+    "name": "서울대학교병원",
+    "dong": "구미동",
+    "coordinates": [
+      127.1219333,
+      37.3505167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000755",
+    "mobileNo": "07618",
+    "name": "서현역(공항버스)",
+    "dong": "서현1동",
+    "coordinates": [
+      127.12385,
+      37.3835333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000723",
+    "mobileNo": "07619",
+    "name": "서울대학교병원",
+    "dong": "구미동",
+    "coordinates": [
+      127.1219333,
+      37.35075
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000756",
+    "mobileNo": "07620",
+    "name": "성남터미널(임시승차장)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1269167,
+      37.4124833
+    ],
+    "crossCheckMeters": 122.7
+  },
+  {
+    "id": "206000757",
+    "mobileNo": "07621",
+    "name": "성남터미널(임시하차장)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1261833,
+      37.4132833
+    ],
+    "crossCheckMeters": 49.6
+  },
+  {
+    "id": "206000705",
+    "mobileNo": "07622",
+    "name": "한국잡월드",
+    "dong": "백현동",
+    "coordinates": [
+      127.1083833,
+      37.3791167
+    ],
+    "crossCheckMeters": 1.5
+  },
+  {
+    "id": "206000706",
+    "mobileNo": "07623",
+    "name": "한국잡월드",
+    "dong": "백현동",
+    "coordinates": [
+      127.1081167,
+      37.3789
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000725",
+    "mobileNo": "07624",
+    "name": "정자역",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1082833,
+      37.3667833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000728",
+    "mobileNo": "07625",
+    "name": "매화마을1단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1348167,
+      37.4165
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000729",
+    "mobileNo": "07626",
+    "name": "연꽃마을4단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1344833,
+      37.4167833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000721",
+    "mobileNo": "07627",
+    "name": "한국장애인고용공단.서울대병원장례식장",
+    "dong": "구미동",
+    "coordinates": [
+      127.1242,
+      37.3475667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000782",
+    "mobileNo": "07629",
+    "name": "야탑역(공항버스)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1285333,
+      37.4132
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000730",
+    "mobileNo": "07630",
+    "name": "엔씨.안랩",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10985,
+      37.3995833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000731",
+    "mobileNo": "07631",
+    "name": "엔씨.안랩",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1094667,
+      37.3994667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000727",
+    "mobileNo": "07632",
+    "name": "매화마을4단지",
+    "dong": "야탑3동",
+    "coordinates": [
+      127.1421167,
+      37.4127667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000710",
+    "mobileNo": "07633",
+    "name": "삼성아파트",
+    "dong": "구미동",
+    "coordinates": [
+      127.1206,
+      37.3388
+    ],
+    "crossCheckMeters": 11.6
+  },
+  {
+    "id": "206000711",
+    "mobileNo": "07634",
+    "name": "청구아파트",
+    "dong": "구미동",
+    "coordinates": [
+      127.1202667,
+      37.3389167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000714",
+    "mobileNo": "07635",
+    "name": "동아아파트.제일아파트",
+    "dong": "구미동",
+    "coordinates": [
+      127.1233833,
+      37.3412333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000715",
+    "mobileNo": "07636",
+    "name": "라이프아파트",
+    "dong": "구미동",
+    "coordinates": [
+      127.1231167,
+      37.3414167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000722",
+    "mobileNo": "07637",
+    "name": "한국장애인고용공단.서울대병원장례식장",
+    "dong": "구미동",
+    "coordinates": [
+      127.1238333,
+      37.3478167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000737",
+    "mobileNo": "07638",
+    "name": "쇳골",
+    "dong": "금곡동",
+    "coordinates": [
+      127.0979833,
+      37.3631333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000738",
+    "mobileNo": "07639",
+    "name": "소곡회관",
+    "dong": "금곡동",
+    "coordinates": [
+      127.0995,
+      37.3628333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000739",
+    "mobileNo": "07640",
+    "name": "소곡회관",
+    "dong": "금곡동",
+    "coordinates": [
+      127.0994667,
+      37.3629333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000742",
+    "mobileNo": "07641",
+    "name": "기숙사",
+    "dong": "운중동",
+    "coordinates": [
+      127.0497833,
+      37.3701833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000783",
+    "mobileNo": "07642",
+    "name": "야탑역(공항버스)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1289667,
+      37.41295
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000784",
+    "mobileNo": "07643",
+    "name": "야탑역.종합버스터미널(광역버스)",
+    "dong": "야탑1동",
+    "coordinates": [
+      127.1289667,
+      37.4127167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000786",
+    "mobileNo": "07645",
+    "name": "대장동입구",
+    "dong": "운중동",
+    "coordinates": [
+      127.068,
+      37.3591
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000787",
+    "mobileNo": "07646",
+    "name": "대장동입구",
+    "dong": "운중동",
+    "coordinates": [
+      127.0681333,
+      37.35915
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000788",
+    "mobileNo": "07647",
+    "name": "낙생저수지",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0768667,
+      37.354
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000789",
+    "mobileNo": "07648",
+    "name": "낙생저수지",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0771833,
+      37.35405
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000790",
+    "mobileNo": "07649",
+    "name": "미라지가구",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0789,
+      37.3534833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000791",
+    "mobileNo": "07650",
+    "name": "미라지가구",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0789667,
+      37.35355
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000792",
+    "mobileNo": "07651",
+    "name": "동원2통경로당",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0807833,
+      37.35255
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000793",
+    "mobileNo": "07652",
+    "name": "동원2통경로당",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0808333,
+      37.3526167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000852",
+    "mobileNo": "07654",
+    "name": "미금역3번출구(마을)",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1102333,
+      37.3498833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000897",
+    "mobileNo": "07656",
+    "name": "농수산물센터사거리",
+    "dong": "구미동",
+    "coordinates": [
+      127.1105667,
+      37.3359833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000898",
+    "mobileNo": "07657",
+    "name": "농협하나로마트",
+    "dong": "구미동",
+    "coordinates": [
+      127.1058167,
+      37.33955
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000746",
+    "mobileNo": "07658",
+    "name": "그린타운.미래상가",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1370833,
+      37.3732667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000747",
+    "mobileNo": "07659",
+    "name": "범한프라자.양영디지털고등학교",
+    "dong": "서현2동",
+    "coordinates": [
+      127.1390667,
+      37.3715167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000748",
+    "mobileNo": "07660",
+    "name": "장안타운.건영아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.14075,
+      37.3702833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000749",
+    "mobileNo": "07661",
+    "name": "장안어린이공원",
+    "dong": "분당동",
+    "coordinates": [
+      127.1432833,
+      37.37095
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000750",
+    "mobileNo": "07662",
+    "name": "건영아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.14185,
+      37.3714333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000547",
+    "mobileNo": "07663",
+    "name": "힐스테이트",
+    "dong": "판교동",
+    "coordinates": [
+      127.0933,
+      37.399
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000759",
+    "mobileNo": "07665",
+    "name": "금강.한신아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1245833,
+      37.38965
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000744",
+    "mobileNo": "07666",
+    "name": "이노밸리A동.오콘",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1005167,
+      37.40295
+    ],
+    "crossCheckMeters": 4.0
+  },
+  {
+    "id": "206000766",
+    "mobileNo": "07667",
+    "name": "안촌유치원",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1123,
+      37.36845
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000767",
+    "mobileNo": "07668",
+    "name": "한양아파트정문",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1276833,
+      37.3798167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000768",
+    "mobileNo": "07669",
+    "name": "동부코오롱아파트",
+    "dong": "이매1동",
+    "coordinates": [
+      127.1257167,
+      37.3910667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000770",
+    "mobileNo": "07671",
+    "name": "이마트",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1201,
+      37.3593667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000771",
+    "mobileNo": "07672",
+    "name": "느티마을3.4단지.한솔마을7단지",
+    "dong": "정자1동",
+    "coordinates": [
+      127.11425,
+      37.3684667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000779",
+    "mobileNo": "07674",
+    "name": "이우중고",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0864667,
+      37.3519167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000780",
+    "mobileNo": "07675",
+    "name": "이우중고",
+    "dong": "구미1동",
+    "coordinates": [
+      127.0862167,
+      37.35175
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000781",
+    "mobileNo": "07676",
+    "name": "판교어린이도서관(마을)",
+    "dong": "백현동",
+    "coordinates": [
+      127.1089333,
+      37.3878167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000795",
+    "mobileNo": "07677",
+    "name": "봇들마을7.8단지.롯데마트판교점",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1144,
+      37.3960833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000796",
+    "mobileNo": "07678",
+    "name": "봇들마을7.8단지.롯데마트판교점",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1145,
+      37.3963167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000797",
+    "mobileNo": "07679",
+    "name": "보평초.중고(마을)",
+    "dong": "삼평동",
+    "coordinates": [
+      127.11695,
+      37.3965833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000798",
+    "mobileNo": "07680",
+    "name": "샛별마을삼부아파트(마을)",
+    "dong": "분당동",
+    "coordinates": [
+      127.1283333,
+      37.3698
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000799",
+    "mobileNo": "07681",
+    "name": "백현마을6단지.판교노인종합복지관",
+    "dong": "백현동",
+    "coordinates": [
+      127.1091833,
+      37.38985
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000800",
+    "mobileNo": "07682",
+    "name": "백현마을6단지.판교노인종합복지관",
+    "dong": "백현동",
+    "coordinates": [
+      127.1084667,
+      37.3892667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000801",
+    "mobileNo": "07683",
+    "name": "판교세븐벤처밸리",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1002667,
+      37.4014333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000802",
+    "mobileNo": "07684",
+    "name": "넥슨네트웍스.NHN.네오위즈",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10265,
+      37.4003667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000803",
+    "mobileNo": "07685",
+    "name": "넥슨",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1026167,
+      37.4016833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000808",
+    "mobileNo": "07690",
+    "name": "상록마을라이프아파트",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1113333,
+      37.3632833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000809",
+    "mobileNo": "07691",
+    "name": "상록마을라이프아파트",
+    "dong": "정자1동",
+    "coordinates": [
+      127.11145,
+      37.3635833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000810",
+    "mobileNo": "07692",
+    "name": "상록마을우성아파트",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1130667,
+      37.3633167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000811",
+    "mobileNo": "07693",
+    "name": "상록마을우성아파트",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1127167,
+      37.3635667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000812",
+    "mobileNo": "07694",
+    "name": "KFC사거리",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1144167,
+      37.3633
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000813",
+    "mobileNo": "07695",
+    "name": "KFC사거리",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1144167,
+      37.3635833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000814",
+    "mobileNo": "07696",
+    "name": "정든마을신화아파트",
+    "dong": "정자2동",
+    "coordinates": [
+      127.11695,
+      37.3633167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000815",
+    "mobileNo": "07697",
+    "name": "정든마을우성4단지(마을)",
+    "dong": "정자2동",
+    "coordinates": [
+      127.1195,
+      37.3633
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000816",
+    "mobileNo": "07698",
+    "name": "정든마을우성6단지",
+    "dong": "정자2동",
+    "coordinates": [
+      127.1212667,
+      37.3633
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000817",
+    "mobileNo": "07699",
+    "name": "KT(마을)",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1152,
+      37.3600833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000818",
+    "mobileNo": "07700",
+    "name": "한양아파트528동앞",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1156,
+      37.3765833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000819",
+    "mobileNo": "07701",
+    "name": "분당고등학교.금호상가",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1167,
+      37.3756167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000820",
+    "mobileNo": "07702",
+    "name": "대명상가.금호3단지",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1184333,
+      37.3740667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000821",
+    "mobileNo": "07703",
+    "name": "코끼리상가",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1197,
+      37.3729333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000822",
+    "mobileNo": "07704",
+    "name": "수내2동행정복지센터",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1206833,
+      37.3720667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000823",
+    "mobileNo": "07705",
+    "name": "돌고래상가",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1218667,
+      37.3706167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000824",
+    "mobileNo": "07706",
+    "name": "푸른마을쌍용아파트",
+    "dong": "수내3동",
+    "coordinates": [
+      127.12315,
+      37.3694167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000825",
+    "mobileNo": "07707",
+    "name": "수내초등학교",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1242,
+      37.3685
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000826",
+    "mobileNo": "07708",
+    "name": "수내3동행정복지센터",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1257833,
+      37.3666833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000827",
+    "mobileNo": "07709",
+    "name": "수내3동주택단지입구",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1257833,
+      37.3653333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000828",
+    "mobileNo": "07710",
+    "name": "주택단지상가앞",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1266333,
+      37.3645833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000829",
+    "mobileNo": "07711",
+    "name": "쌈지공원",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1279,
+      37.3635833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000830",
+    "mobileNo": "07712",
+    "name": "수내세탁소",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1295167,
+      37.3647333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000831",
+    "mobileNo": "07713",
+    "name": "수내고등학교.수내도서관",
+    "dong": "수내3동",
+    "coordinates": [
+      127.12825,
+      37.3660667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000832",
+    "mobileNo": "07714",
+    "name": "동국대학교한방병원.푸른마을신성아파트",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1268167,
+      37.3676167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000833",
+    "mobileNo": "07715",
+    "name": "푸른마을관리사무소",
+    "dong": "수내3동",
+    "coordinates": [
+      127.1251,
+      37.36915
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000834",
+    "mobileNo": "07716",
+    "name": "푸른마을벽산아파트",
+    "dong": "수내3동",
+    "coordinates": [
+      127.12405,
+      37.3700667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000835",
+    "mobileNo": "07717",
+    "name": "파크타운서안아파트",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1228333,
+      37.3711667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000836",
+    "mobileNo": "07718",
+    "name": "파크타운대림아파트",
+    "dong": "수내2동",
+    "coordinates": [
+      127.1204,
+      37.37375
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000837",
+    "mobileNo": "07719",
+    "name": "우리은행.샘터유치원",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1194833,
+      37.3745833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000838",
+    "mobileNo": "07720",
+    "name": "금호상가.수내1동행정복지센터",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1180167,
+      37.3758833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000839",
+    "mobileNo": "07721",
+    "name": "청구상가.금호타운1단지",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1164667,
+      37.37725
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000840",
+    "mobileNo": "07722",
+    "name": "롯데백화점",
+    "dong": "수내1동",
+    "coordinates": [
+      127.1146333,
+      37.3781
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000843",
+    "mobileNo": "07725",
+    "name": "우방우성빌라",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1185,
+      37.3522833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000844",
+    "mobileNo": "07726",
+    "name": "아름다운교회",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1199167,
+      37.3512667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000845",
+    "mobileNo": "07727",
+    "name": "대진고등학교",
+    "dong": "분당동",
+    "coordinates": [
+      127.1367333,
+      37.3693667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000846",
+    "mobileNo": "07728",
+    "name": "진로빌라",
+    "dong": "분당동",
+    "coordinates": [
+      127.13435,
+      37.37
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000847",
+    "mobileNo": "07729",
+    "name": "청구상가",
+    "dong": "정자2동",
+    "coordinates": [
+      127.1212333,
+      37.3636167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000848",
+    "mobileNo": "07730",
+    "name": "한솔주공5.6단지",
+    "dong": "정자2동",
+    "coordinates": [
+      127.1172,
+      37.36355
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000849",
+    "mobileNo": "07731",
+    "name": "보바스기념병원",
+    "dong": "금곡동",
+    "coordinates": [
+      127.0986167,
+      37.35635
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000850",
+    "mobileNo": "07732",
+    "name": "헤리티지",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1011,
+      37.3574
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000851",
+    "mobileNo": "07733",
+    "name": "불곡중.청구빌라(마을)",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1194333,
+      37.3465833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000861",
+    "mobileNo": "07742",
+    "name": "꿈터유치원",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1119333,
+      37.3478167
+    ],
+    "crossCheckMeters": 5.6
+  },
+  {
+    "id": "206000862",
+    "mobileNo": "07743",
+    "name": "꿈터유치원",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1121167,
+      37.34745
+    ],
+    "crossCheckMeters": 29.8
+  },
+  {
+    "id": "206000863",
+    "mobileNo": "07744",
+    "name": "청구빌라앞(마을)",
+    "dong": "구미1동",
+    "coordinates": [
+      127.11935,
+      37.3463833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000864",
+    "mobileNo": "07745",
+    "name": "그랜드빌",
+    "dong": "구미동",
+    "coordinates": [
+      127.1188667,
+      37.3434833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000865",
+    "mobileNo": "07746",
+    "name": "그랜드빌",
+    "dong": "구미동",
+    "coordinates": [
+      127.1190333,
+      37.34325
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000866",
+    "mobileNo": "07747",
+    "name": "구미초교",
+    "dong": "구미동",
+    "coordinates": [
+      127.11695,
+      37.3379833
+    ],
+    "crossCheckMeters": 7.3
+  },
+  {
+    "id": "206000867",
+    "mobileNo": "07748",
+    "name": "구미동행정복지센터.분당구미동성당",
+    "dong": "구미동",
+    "coordinates": [
+      127.1219,
+      37.3397667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000868",
+    "mobileNo": "07749",
+    "name": "건영아파트.분당구미동성당",
+    "dong": "구미동",
+    "coordinates": [
+      127.1216833,
+      37.3399833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000870",
+    "mobileNo": "07751",
+    "name": "골안어린이공원",
+    "dong": "구미동",
+    "coordinates": [
+      127.1251167,
+      37.3427833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000871",
+    "mobileNo": "07752",
+    "name": "골안어린이공원",
+    "dong": "구미동",
+    "coordinates": [
+      127.1255,
+      37.3433333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000872",
+    "mobileNo": "07753",
+    "name": "대광사.구미중학교",
+    "dong": "구미동",
+    "coordinates": [
+      127.12465,
+      37.3452833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000873",
+    "mobileNo": "07754",
+    "name": "시니어스타워앞(마을)",
+    "dong": "구미동",
+    "coordinates": [
+      127.1240333,
+      37.34685
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000874",
+    "mobileNo": "07755",
+    "name": "구미중학교",
+    "dong": "구미동",
+    "coordinates": [
+      127.1243833,
+      37.3451667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000875",
+    "mobileNo": "07756",
+    "name": "대광사입구",
+    "dong": "구미동",
+    "coordinates": [
+      127.1276,
+      37.34625
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000877",
+    "mobileNo": "07758",
+    "name": "두산위브",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1061333,
+      37.3548167
+    ],
+    "crossCheckMeters": 1.9
+  },
+  {
+    "id": "206000879",
+    "mobileNo": "07760",
+    "name": "판교어린이도서관(마을)",
+    "dong": "백현동",
+    "coordinates": [
+      127.1085167,
+      37.3882667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000880",
+    "mobileNo": "07761",
+    "name": "무지개마을사거리",
+    "dong": "구미동",
+    "coordinates": [
+      127.1160167,
+      37.3375
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000881",
+    "mobileNo": "07762",
+    "name": "대림아파트앞",
+    "dong": "구미동",
+    "coordinates": [
+      127.1169167,
+      37.3362167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000882",
+    "mobileNo": "07763",
+    "name": "무지개마을12단지",
+    "dong": "구미동",
+    "coordinates": [
+      127.1185167,
+      37.3361833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000883",
+    "mobileNo": "07764",
+    "name": "삼성.건영아파트후문",
+    "dong": "구미동",
+    "coordinates": [
+      127.1191333,
+      37.33735
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000884",
+    "mobileNo": "07765",
+    "name": "구미초등학교",
+    "dong": "구미동",
+    "coordinates": [
+      127.1189667,
+      37.3372333
+    ],
+    "crossCheckMeters": 13.1
+  },
+  {
+    "id": "206000885",
+    "mobileNo": "07766",
+    "name": "금강아파트앞",
+    "dong": "구미동",
+    "coordinates": [
+      127.1186833,
+      37.3365167
+    ],
+    "crossCheckMeters": 16.6
+  },
+  {
+    "id": "206000886",
+    "mobileNo": "07767",
+    "name": "가나안교회",
+    "dong": "구미동",
+    "coordinates": [
+      127.117,
+      37.3365333
+    ],
+    "crossCheckMeters": 3.4
+  },
+  {
+    "id": "206000900",
+    "mobileNo": "07778",
+    "name": "두산위브",
+    "dong": "금곡동",
+    "coordinates": [
+      127.1059,
+      37.3548167
+    ],
+    "crossCheckMeters": 1.9
+  },
+  {
+    "id": "206000901",
+    "mobileNo": "07779",
+    "name": "늘푸른고등학교",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1053,
+      37.3723167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000902",
+    "mobileNo": "07780",
+    "name": "파크뷰아파트.정자유스센터",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1071,
+      37.3725167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000903",
+    "mobileNo": "07781",
+    "name": "우주공원.코스맥스",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10185,
+      37.40435
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000904",
+    "mobileNo": "07782",
+    "name": "실리콘파크.삼성중공업",
+    "dong": "삼평동",
+    "coordinates": [
+      127.0998,
+      37.40475
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000905",
+    "mobileNo": "07783",
+    "name": "KT(마을)",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1141167,
+      37.3598
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000906",
+    "mobileNo": "07784",
+    "name": "한진6단지(마을)",
+    "dong": "정자3동",
+    "coordinates": [
+      127.1150167,
+      37.36205
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000908",
+    "mobileNo": "07786",
+    "name": "정자역(마을)",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1083167,
+      37.3662333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000909",
+    "mobileNo": "07787",
+    "name": "현진에버빌.시네하우스삼거리",
+    "dong": "분당동",
+    "coordinates": [
+      127.1395333,
+      37.3679667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000910",
+    "mobileNo": "07788",
+    "name": "동대문교회",
+    "dong": "분당동",
+    "coordinates": [
+      127.14255,
+      37.3661333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000911",
+    "mobileNo": "07789",
+    "name": "지역난방공사",
+    "dong": "분당동",
+    "coordinates": [
+      127.1456833,
+      37.3672833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000912",
+    "mobileNo": "07790",
+    "name": "대진고앞",
+    "dong": "분당동",
+    "coordinates": [
+      127.1365833,
+      37.3696833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000233",
+    "mobileNo": "07791",
+    "name": "판교역서편",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10985,
+      37.3953833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000569",
+    "mobileNo": "07794",
+    "name": "임광.보성아파트.늘푸른중학교",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1061167,
+      37.3570167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000572",
+    "mobileNo": "07795",
+    "name": "네이버.아데나루체",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1060833,
+      37.3603333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000573",
+    "mobileNo": "07796",
+    "name": "분당경찰서",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1060833,
+      37.3628167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000133",
+    "mobileNo": "07797",
+    "name": "분당경찰서",
+    "dong": "정자1동",
+    "coordinates": [
+      127.10585,
+      37.3629
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000134",
+    "mobileNo": "07798",
+    "name": "네이버.미켈란쉐르빌",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1058667,
+      37.3587167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000135",
+    "mobileNo": "07799",
+    "name": "늘푸른중학교",
+    "dong": "정자1동",
+    "coordinates": [
+      127.1058833,
+      37.3572
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000915",
+    "mobileNo": "07800",
+    "name": "한양아파트정문",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1278833,
+      37.3796
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000137",
+    "mobileNo": "07801",
+    "name": "순환도시친환경세상순환자원홍보관",
+    "dong": "운중동",
+    "coordinates": [
+      127.0461833,
+      37.3774167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000139",
+    "mobileNo": "07802",
+    "name": "차그룹컨소시엄",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1115,
+      37.40335
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000126",
+    "mobileNo": "07803",
+    "name": "판교세븐벤처밸리",
+    "dong": "삼평동",
+    "coordinates": [
+      127.10045,
+      37.4015167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000127",
+    "mobileNo": "07804",
+    "name": "판교환경생태학습원",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1040833,
+      37.39975
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000720",
+    "mobileNo": "07805",
+    "name": "네오위즈.NHN",
+    "dong": "삼평동",
+    "coordinates": [
+      127.1042667,
+      37.39995
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000709",
+    "mobileNo": "07806",
+    "name": "오리삼거리(마을)",
+    "dong": "구미동",
+    "coordinates": [
+      127.1097833,
+      37.3379333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000685",
+    "mobileNo": "07807",
+    "name": "샛별마을동성아파트",
+    "dong": "분당동",
+    "coordinates": [
+      127.1333333,
+      37.3716
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000250",
+    "mobileNo": "07808",
+    "name": "서현역(공항버스)",
+    "dong": "서현1동",
+    "coordinates": [
+      127.124,
+      37.3841167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000645",
+    "mobileNo": "07809",
+    "name": "서현역.서현고가차도",
+    "dong": "서현1동",
+    "coordinates": [
+      127.1245333,
+      37.3845
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000519",
+    "mobileNo": "07810",
+    "name": "우방아파트(마을)",
+    "dong": "분당동",
+    "coordinates": [
+      127.1265833,
+      37.3713833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000716",
+    "mobileNo": "07812",
+    "name": "동원동입구",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1006833,
+      37.3449167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000717",
+    "mobileNo": "07813",
+    "name": "동원동경로당",
+    "dong": "구미1동",
+    "coordinates": [
+      127.1001167,
+      37.3464333
+    ],
+    "crossCheckMeters": 91.8
+  },
+  {
+    "id": "206000856",
+    "mobileNo": "07817",
+    "name": "판교퍼스트힐푸르지오1단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.0711833,
+      37.37265
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000644",
+    "mobileNo": "07818",
+    "name": "판교퍼스트힐푸르지오1단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.0709833,
+      37.3724667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000619",
+    "mobileNo": "07819",
+    "name": "판교퍼스트힐푸르지오2단지.판교SK뷰테라스",
+    "dong": "운중동",
+    "coordinates": [
+      127.0685833,
+      37.3740667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000646",
+    "mobileNo": "07820",
+    "name": "힐스테이트판교엘포레6단지.판교SK뷰테라스",
+    "dong": "운중동",
+    "coordinates": [
+      127.0683167,
+      37.3737
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000472",
+    "mobileNo": "07821",
+    "name": "힐스테이트판교엘포레6단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.06805,
+      37.3718333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000855",
+    "mobileNo": "07822",
+    "name": "판교TH212",
+    "dong": "운중동",
+    "coordinates": [
+      127.0678167,
+      37.3717
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000656",
+    "mobileNo": "07823",
+    "name": "판교대장초·중학교",
+    "dong": "운중동",
+    "coordinates": [
+      127.06995,
+      37.3704167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000869",
+    "mobileNo": "07824",
+    "name": "판교대장초·중학교",
+    "dong": "운중동",
+    "coordinates": [
+      127.0695667,
+      37.3706
+    ],
+    "crossCheckMeters": 39.5
+  },
+  {
+    "id": "206000893",
+    "mobileNo": "07825",
+    "name": "판교풍경채7단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.06785,
+      37.3667167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000661",
+    "mobileNo": "07826",
+    "name": "판교풍경채7단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.0682,
+      37.3667833
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000659",
+    "mobileNo": "07827",
+    "name": "판교대장로서측",
+    "dong": "운중동",
+    "coordinates": [
+      127.0674833,
+      37.3633
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000853",
+    "mobileNo": "07828",
+    "name": "판교대장로동측",
+    "dong": "운중동",
+    "coordinates": [
+      127.0678,
+      37.3633167
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000471",
+    "mobileNo": "07829",
+    "name": "판교풍경채5단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.0691,
+      37.365
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000854",
+    "mobileNo": "07830",
+    "name": "힐스테이트판교엘포레4단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.0688833,
+      37.3652333
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000794",
+    "mobileNo": "07831",
+    "name": "판교반디유치원.복합문화단지",
+    "dong": "운중동",
+    "coordinates": [
+      127.0708833,
+      37.3668667
+    ],
+    "crossCheckMeters": 0.0
+  },
+  {
+    "id": "206000465",
+    "mobileNo": "07832",
+    "name": "더샵판교포레스트11단지.판교해링턴플레이스",
+    "dong": "운중동",
+    "coordinates": [
+      127.0711167,
+      37.36735
+    ],
+    "crossCheckMeters": 0.0
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "bundang-bus-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node --env-file-if-exists=.env server.mjs", "test": "node --test test/*.test.mjs", "probe": "node --env-file-if-exists=.env scripts/probe.mjs"},
+  "engines": {"node": ">=22.0.0"}
+}

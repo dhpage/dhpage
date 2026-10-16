@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-10-16T06:28:42.769235+00:00",
+  "method": "성남시 행정동으로 분당구 정류장 선정 → 5자리 정류장번호와 좌표(250m 이내)로 GBIS 정류소 대조 → GBIS 노선경유정보·노선정보 조인",
+  "gbisCreatedDate": "2026-10-16",
+  "cityStopDataDate": "2026-04-08",
+  "cityStopRows": 1309,
+  "bundangCityStopRows": 683,
+  "matchedGbisStopCount": 678,
+  "unmatchedCityStopRows": 5,
+  "gbisStationRows": 43276,
+  "gbisRouteRows": 3077,
+  "gbisRouteStationRows": 198523,
+  "routeCount": 215,
+  "routesMissingMetadata": 0,
+  "maxMatchedStopDistanceMeters": 122.7,
+  "scope": "공식 자료에서 분당구 정류소 경유를 확인한 GBIS 노선. 무정차 통과 및 성남시 정류장 자료에 없는 신설 정류소 경유 노선은 포함을 보장하지 않음.",
+  "sources": [
+    {
+      "url": "https://www.data.go.kr/data/15077307/fileData.do",
+      "date": "2026-04-08"
+    },
+    {
+      "url": "https://www.seongnam.go.kr/cn040104",
+      "purpose": "분당구 행정동 구분"
+    },
+    {
+      "url": "https://www.gbis.go.kr/service/adm/banner/download.action?cmd=download&fName=GGD_RouteInfo_M.xlsx",
+      "sha256": "911c2a3f65d15f86a8dc9589ebb77a4d35babb28b1efca59fbacad3cf066c83a"
+    },
+    {
+      "url": "https://www.gbis.go.kr/service/adm/banner/download.action?cmd=download&fName=GGD_RouteStationInfo_M.xlsx",
+      "sha256": "97fdae7a4ae766857c7d2776351661d9ba2dc497d7aff8d74d90c64030ac6fa6"
+    },
+    {
+      "url": "https://www.gbis.go.kr/service/adm/banner/download.action?cmd=download&fName=GGD_StationInfo_M.xlsx",
+      "sha256": "b43bf8fe4d4c4d29f0732e157982b9e6a655a8ffdd9ee5afcdb0e18f635fda48"
+    }
+  ]
+}

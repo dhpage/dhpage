@@ -1,0 +1,40 @@
+{
+  "cityStops": [
+    {
+      "mobileNo": "07041",
+      "name": "구미동차고지",
+      "dong": "구미동",
+      "reason": "no_mobile_match",
+      "nearestMeters": null
+    },
+    {
+      "mobileNo": "07686",
+      "name": "원마을13단지",
+      "dong": "판교동",
+      "reason": "no_mobile_match",
+      "nearestMeters": null
+    },
+    {
+      "mobileNo": "07687",
+      "name": "원마을13단지",
+      "dong": "판교동",
+      "reason": "no_mobile_match",
+      "nearestMeters": null
+    },
+    {
+      "mobileNo": "07688",
+      "name": "원마을12단지",
+      "dong": "판교동",
+      "reason": "no_mobile_match",
+      "nearestMeters": null
+    },
+    {
+      "mobileNo": "07689",
+      "name": "원마을12단지",
+      "dong": "판교동",
+      "reason": "no_mobile_match",
+      "nearestMeters": null
+    }
+  ],
+  "routesMissingMetadata": []
+}
